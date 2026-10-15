@@ -2,7 +2,7 @@
 
 _本文件由 GitHub Actions 维护，存储在 status 分支。_
 
-_更新于: 2026-10-01_
+_更新于: 2026-10-15_
 
 ## NewsBlur
 - **URL**: https://newsblur.com/
@@ -12,8 +12,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## JSON Feed
 - **URL**: https://jsonfeed.org/
@@ -21,7 +23,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Inoreader
 - **URL**: https://www.inoreader.com/
@@ -33,9 +36,12 @@ _更新于: 2026-10-01_
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS 0.90
 - **URL**: https://www.rssboard.org/rss-0-9-0
@@ -43,7 +49,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FeedDemon
 - **URL**: http://www.feeddemon.com/
@@ -51,7 +58,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## GeoRSS
 - **URL**: http://www.georss.org/
@@ -59,7 +67,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feed Extractor
 - **URL**: https://extractor-demos.pages.dev/feed-extractor
@@ -67,7 +76,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Reeder Classic
 - **URL**: https://reederapp.com/classic/
@@ -75,7 +85,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS 2.0
 - **URL**: https://www.rssboard.org/rss-specification
@@ -83,7 +94,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## The Unreader
 - **URL**: https://apps.apple.com/app/the-unreader-a-feedbin-client/id1496863148
@@ -91,7 +103,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS 工具和应用场景
 - **URL**: https://zhuanlan.zhihu.com/p/109813899
@@ -99,7 +112,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Atom
 - **URL**: http://www.atomenabled.org/
@@ -107,7 +121,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Royal RSS Reader
 - **URL**: http://the-sz.com/products/royal/
@@ -115,7 +130,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS 3.0
 - **URL**: http://www.aaronsw.com/2002/rss30
@@ -123,7 +139,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS/Atom to JSONFeed Converter
 - **URL**: https://feed2json.org/
@@ -131,7 +148,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Back to the Future with RSS
 - **URL**: https://ncase.me/rss/
@@ -139,7 +157,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS - 高效率的阅读方式
 - **URL**: https://sspai.com/post/56198
@@ -147,7 +166,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## h-feed
 - **URL**: https://microformats.org/wiki/h-feed
@@ -155,7 +175,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Tracker (Former name: RSS Stalker)
 - **URL**: https://blog.richasy.cn/document/rss/
@@ -163,7 +184,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS2JSONFeed converter
 - **URL**: https://rss2json.com
@@ -173,8 +195,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Media RSS Specification
 - **URL**: https://www.rssboard.org/media-rss
@@ -182,7 +206,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 快知
 - **URL**: http://kzfeed.com/
@@ -192,8 +217,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feed Validator for RSS and Atom
 - **URL**: https://validator.w3.org/feed/check.cgi
@@ -201,7 +228,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## News+
 - **URL**: http://noinnion.com/newsplus/
@@ -209,7 +237,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## NetNewsWire
 - **URL**: https://ranchero.com/netnewswire/
@@ -217,7 +246,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS3
 - **URL**: https://rss3.io/
@@ -225,7 +255,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS 订阅傻瓜式教程
 - **URL**: https://mp.weixin.qq.com/s/KKPO3otk5LBeLMQTtlqHvg
@@ -233,7 +264,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## About Feeds
 - **URL**: https://aboutfeeds.com
@@ -241,7 +273,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## lire
 - **URL**: http://lireapp.com/
@@ -249,7 +282,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedbin
 - **URL**: https://feedbin.com/
@@ -261,9 +295,12 @@ _更新于: 2026-10-01_
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Fiery Feeds
 - **URL**: http://cocoacake.net/apps/fiery/
@@ -271,7 +308,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## An Intro to RSS Feeds
 - **URL**: https://meganesulli.com/blog/how-rss-works
@@ -279,7 +317,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS 1.0
 - **URL**: https://web.resource.org/rss/1.0/
@@ -287,7 +326,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Readably
 - **URL**: https://twitter.com/readablyapp
@@ -295,7 +335,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## OPML
 - **URL**: http://opml.org/spec2.opml
@@ -303,7 +344,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Newsairy
 - **URL**: https://qebapps.statichost.page/newsairy/
@@ -311,7 +353,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS feed to JSON API
 - **URL**: https://rss-to-json-serverless-api.vercel.app/
@@ -321,8 +364,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Winds
 - **URL**: https://getstream.io/winds/
@@ -332,8 +377,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 期待（Angelia）
 - **URL**: https://angelia.codeeer.com/
@@ -341,7 +388,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS 0.91
 - **URL**: https://www.rssboard.org/rss-0-9-1-netscape
@@ -349,7 +397,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Schema Structured Syndication
 - **URL**: https://3s-docs.org/
@@ -357,7 +406,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ~~Newsfold~~
 - **URL**: http://mvilla.it/newsfold/
@@ -365,7 +415,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## source namespace
 - **URL**: http://source.scripting.com/#1653758422000
@@ -373,7 +424,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## irreader
 - **URL**: http://irreader.fatecore.com/
@@ -383,8 +435,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## You Need Feeds
 - **URL**: https://www.youneedfeeds.com/
@@ -392,7 +446,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## feed-generator.app
 - **URL**: https://feed-generator.app/
@@ -400,7 +455,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## the new Reeder
 - **URL**: https://reederapp.com/
@@ -408,7 +464,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 小乐RSS阅读器
 - **URL**: https://sites.google.com/site/zzllrrrssreader/
@@ -416,7 +473,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS 是干什么的？
 - **URL**: https://xuchi.name/117/
@@ -424,7 +482,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Wikipedia: RSS
 - **URL**: https://en.wikipedia.org/wiki/RSS
@@ -432,7 +491,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS + vCard
 - **URL**: https://nfraprado.net/post/vcard-rss-as-an-alternative-to-social-media.html
@@ -440,7 +500,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## The Power of RSS: an image
 - **URL**: https://www.elliance.com/media/61850/the_power_of_rss.gif
@@ -448,7 +509,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Made Easy
 - **URL**: https://www.youtube.com/watch?v=6HNUqDL-pI8
@@ -456,7 +518,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feed Analyzer
 - **URL**: https://www.rss.style/feed-analyzer.html
@@ -464,7 +527,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 如何使用 RSS
 - **URL**: https://www.ruanyifeng.com/blog/2006/01/rss.html
@@ -472,7 +536,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Why you should consider using RSS
 - **URL**: https://huey.xyz/posts/2021-07-18-rss
@@ -480,7 +545,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Uread
 - **URL**: https://uread.ai/
@@ -488,7 +554,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedly
 - **URL**: https://feedly.com
@@ -498,8 +565,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Bandit
 - **URL**: http://rssbandit.org/
@@ -507,7 +576,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## GNOME Feeds
 - **URL**: https://gabmus.gitlab.io/gnome-feeds/
@@ -515,7 +585,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## USEPANDA
 - **URL**: https://usepanda.com/
@@ -527,9 +598,12 @@ _更新于: 2026-10-01_
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Akregator
 - **URL**: https://kde.org/applications/internet/org.kde.akregator
@@ -537,7 +611,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## QuiteRSS
 - **URL**: https://quiterss.org/
@@ -545,7 +620,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Liferea
 - **URL**: https://lzone.de/liferea/
@@ -553,7 +629,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## feeder
 - **URL**: https://feeder.co/
@@ -561,7 +638,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Unread
 - **URL**: https://www.goldenhillsoftware.com/unread/
@@ -569,7 +647,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Bloglovin’
 - **URL**: https://www.bloglovin.com/
@@ -579,8 +658,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 厚墨 deepink
 - **URL**: https://www.deepink.cn/
@@ -588,7 +669,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Fraidycat
 - **URL**: https://fraidyc.at/
@@ -598,8 +680,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Zr 孜然
 - **URL**: https://www.coolapk.com/apk/176794
@@ -607,7 +691,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedbro
 - **URL**: https://nodetics.com/feedbro/
@@ -617,8 +702,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Leaf for Mac
 - **URL**: https://rockysandstudio.com/
@@ -626,7 +713,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ReadKit
 - **URL**: https://readkitapp.com/
@@ -634,7 +722,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Flipboard
 - **URL**: https://flipboard.com/
@@ -644,8 +733,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Reader Prime
 - **URL**: http://orzer.zhangzichuan.cn/2019/03/26/ReaderPrime/
@@ -653,7 +744,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Raven Reader
 - **URL**: https://ravenreader.app/
@@ -661,7 +753,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Cappuccino
 - **URL**: https://cappuccinoapp.com/
@@ -669,7 +762,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## News Explorer
 - **URL**: https://betamagic.nl/products/newsexplorer.html
@@ -677,7 +771,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## DEVONthink
 - **URL**: https://www.devontechnologies.com/apps/devonthink
@@ -685,7 +780,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Sismics Reader
 - **URL**: https://www.sismics.com/reader/#!/home
@@ -693,7 +789,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Vienna
 - **URL**: https://www.vienna-rss.com/
@@ -701,7 +798,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## NewsBar
 - **URL**: http://www.newsbar-app.com/
@@ -709,7 +807,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Newsflow
 - **URL**: https://www.microsoft.com/store/apps/9nblggh58s5r/
@@ -717,7 +816,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 深蓝阅读 bluereader
 - **URL**: https://bluereader.org/
@@ -727,8 +827,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## gReader
 - **URL**: http://noinnion.com/greader/
@@ -736,7 +838,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Ego Reader
 - **URL**: https://egorss.com/
@@ -744,7 +847,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FeedReader
 - **URL**: https://jangernert.github.io/FeedReader/
@@ -752,7 +856,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(HTTP 404)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(HTTP 404)
 
 ## Fluent Reader
 - **URL**: https://hyliu.me/fluent-reader/
@@ -760,7 +865,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## AnotherRSS
 - **URL**: https://no-go.github.io/AnotherRSS/
@@ -768,7 +874,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(HTTP 404)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(HTTP 404)
 
 ## 订阅帝
 - **URL**: https://www.dingyuedi.com/
@@ -776,15 +883,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## rss to json
 - **URL**: https://github.com/nasa8x/rss-to-json
-- **当前状态**: 待观察(内容不确定)
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[rss to json]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## CubeRSS Reader
 - **URL**: https://www.cube-soft.jp/cuberssreader/
@@ -792,7 +901,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Readon
 - **URL**: https://starkrimson.github.io/2017/09/06/ReadOnIntroduction/
@@ -800,15 +910,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## Podcast Index: the "podcast" namespace
 - **URL**: https://github.com/Podcastindex-org/podcast-namespace
-- **当前状态**: 待观察(内容不确定)
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[Podcast Index: the "podcast" namespace]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## NewsFlash
 - **URL**: https://gitlab.com/news-flash/news_flash_gtk
@@ -816,7 +928,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Newsify
 - **URL**: https://newsify.co/
@@ -824,15 +937,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## rsscrape
 - **URL**: https://github.com/trbznk/rsscrape
-- **当前状态**: 正常
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Feedmill
 - **URL**: https://furnacecreek.org/feedmill/
@@ -840,15 +955,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FeedMe
 - **URL**: https://github.com/seazon/FeedMe/
-- **当前状态**: 正常
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Super Simple RSS Reader (ssRSS Reader)
 - **URL**: http://ssrss.aijiwai.com/
@@ -856,7 +973,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Menu
 - **URL**: http://edotstudios.com/products/9
@@ -864,7 +982,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Aktuell
 - **URL**: https://appssalon.de/en/aktuell/
@@ -872,7 +991,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feed Wrangler
 - **URL**: https://feedwrangler.net/welcome.html
@@ -882,8 +1002,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Web Subscriber
 - **URL**: https://zoziapps.ch/web-subscriber/
@@ -891,7 +1013,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FeedPop
 - **URL**: https://github.com/xs9627/feedpop
@@ -899,15 +1022,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(仓库已归档)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## SwipeNews
 - **URL**: https://github.com/Tunous/SwipeNews-Issues
-- **当前状态**: 正常
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Elytra
 - **URL**: https://elytra.app/
@@ -915,7 +1040,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FeedIt
 - **URL**: https://feedit.sk/
@@ -925,16 +1051,19 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Guard
 - **URL**: https://github.com/martinrotter/rssguard
-- **当前状态**: 待观察(内容不确定)
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[RSS Guard]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Newsbite
 - **URL**: https://newsbite.app/
@@ -942,23 +1071,26 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Fluent Reader Lite
 - **URL**: https://github.com/yang991178/fluent-reader-lite
-- **当前状态**: 待观察(内容不确定)
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[Fluent Reader Lite]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Livemarks
 - **URL**: https://github.com/nt1m/livemarks/
-- **当前状态**: 正常
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## 英语轻松读
 - **URL**: https://tiny4.org/enreader/
@@ -966,7 +1098,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Dinosaur RSS
 - **URL**: https://dinorss.org/
@@ -974,18 +1107,21 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feeds by Felfele
 - **URL**: https://github.com/felfele/feeds
-- **当前状态**: 失效(1/3)
+- **当前状态**: 待人工确认
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-01 | fail | 
   - 2026-09-15 | unknown | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | unknown | 标题不含关键词[Feeds by Felfele]
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | unknown | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## An Otter RSS
 - **URL**: https://twitter.com/AnOtterRSS
@@ -993,15 +1129,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Brief
 - **URL**: https://github.com/brief-rss/brief
-- **当前状态**: 正常
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Ark View
 - **URL**: https://www.definestudio.in/2018/02/introducing-ark-view.html
@@ -1009,7 +1147,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Aggregator
 - **URL**: https://tughi.github.io/aggregator-android/
@@ -1017,7 +1156,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## Socialife / News Suite by Sony
 - **URL**: http://socialife.sony.net/en_ww/what-is/
@@ -1025,7 +1165,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Stories Now
 - **URL**: https://n4no.com/projects/storiesNow/
@@ -1033,15 +1174,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSOwlnix
 - **URL**: https://github.com/Xyrio/RSSOwlnix
-- **当前状态**: 正常
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Newsfeeder
 - **URL**: https://newsfeeder.esstudio.site/
@@ -1051,8 +1194,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Readian News
 - **URL**: https://readian.io/
@@ -1062,8 +1207,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Stream
 - **URL**: https://stream.hayseed.co/
@@ -1071,7 +1218,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## SlowFeeds
 - **URL**: https://zoziapps.ch/slowfeeds/
@@ -1079,7 +1227,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Harbor
 - **URL**: https://harbor.page/
@@ -1087,7 +1236,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Smart RSS extension
 - **URL**: https://github.com/SmartRSS/Smart-RSS
@@ -1095,7 +1245,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(仓库已归档)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Pluma RSS Reader
 - **URL**: https://www.reddit.com/r/androidapps/comments/ic0fqi/pluma_rss_reader/
@@ -1105,8 +1256,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Follow feature @ Chrome
 - **URL**: https://www.pcmag.com/news/google-follow-rss-reader-appears-in-chromes-stable-release
@@ -1114,7 +1267,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedibus
 - **URL**: https://www.reddit.com/r/rss/comments/qdgv96/feedibus_a_new_rss_feed_reader_app_powered_by/
@@ -1122,7 +1276,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## LinkLonk
 - **URL**: https://linklonk.com/
@@ -1132,8 +1287,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Big News
 - **URL**: https://bignews.app/
@@ -1141,7 +1298,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Cupfeed
 - **URL**: https://cupfeed.app/
@@ -1149,7 +1307,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Substack Reader
 - **URL**: https://substack.com/inbox
@@ -1159,8 +1318,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## News
 - **URL**: https://f-droid.org/packages/co.appreactor.news/
@@ -1168,7 +1329,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feeder
 - **URL**: https://gitlab.com/spacecowboy/Feeder
@@ -1176,7 +1338,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Reams
 - **URL**: https://reams.app/
@@ -1184,7 +1347,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS News Ticker
 - **URL**: https://ticker.salz-amt.co.at/
@@ -1192,7 +1356,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Sage-like
 - **URL**: https://addons.mozilla.org/en-US/firefox/addon/sage-like/
@@ -1200,7 +1365,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## WebFeed
 - **URL**: https://taoshu.in/webfeed/
@@ -1208,7 +1374,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Matter Reader
 - **URL**: https://hq.getmatter.com/
@@ -1216,7 +1383,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Folio Reader
 - **URL**: https://foliorss.com/
@@ -1224,7 +1392,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Speak News
 - **URL**: http://www.imaja.com/speaknews/
@@ -1232,7 +1401,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## feeeed
 - **URL**: https://feeeed.nateparrott.com/
@@ -1240,7 +1410,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 想看
 - **URL**: https://chentiansaber.notion.site/chentiansaber/APP-4befacfd391c4530b462ff85296aaaeb
@@ -1248,7 +1419,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Next Level News
 - **URL**: https://nextlevelnews.app/
@@ -1256,15 +1428,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Readrops
 - **URL**: https://github.com/readrops/Readrops
-- **当前状态**: 正常
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Artykul
 - **URL**: https://artykul.org/
@@ -1272,7 +1446,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Brain
 - **URL**: https://rssbrain.com/
@@ -1282,8 +1457,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ReadWise Reader
 - **URL**: https://readwise.io/read
@@ -1293,16 +1470,19 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Drop Feeds
 - **URL**: https://github.com/dauphine-dev/drop-feeds
-- **当前状态**: 待观察(内容不确定)
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[Drop Feeds]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## RSS 阅读器
 - **URL**: https://logspot.hocgin.top/addone-rss-reader
@@ -1310,7 +1490,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedy
 - **URL**: https://krillapps.com/feedy/
@@ -1318,7 +1499,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Kinss for Kindle
 - **URL**: https://github.com/xizeyoupan/kinss
@@ -1326,7 +1508,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(仓库已归档)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## FeedFlow
 - **URL**: https://www.feedflow.dev/
@@ -1334,7 +1517,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Stratum
 - **URL**: https://andrewzuo.com/a-brief-history-of-stratum-9b286c238ad7
@@ -1342,7 +1526,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Read Copilot
 - **URL**: https://cybertrek.eu.org/
@@ -1350,7 +1535,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ReadBot
 - **URL**: https://apps.apple.com/app/readbot/id6449085999
@@ -1358,7 +1544,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Den for RSS
 - **URL**: https://den.io/
@@ -1366,7 +1553,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Agr Reader
 - **URL**: https://www.agrreader.xyz/
@@ -1374,7 +1562,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Readine
 - **URL**: https://readine.app/
@@ -1382,7 +1571,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## StreamSphere
 - **URL**: https://www.producthunt.com/products/streamsphere
@@ -1390,7 +1580,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Quickify
 - **URL**: https://quickify.app/
@@ -1398,7 +1589,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Event RSS Feed
 - **URL**: https://gist.github.com/erkattak/071ab8af1fc64013d955
@@ -1406,7 +1598,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## Wire
 - **URL**: https://wirereader.app
@@ -1414,7 +1607,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Bulletin AI
 - **URL**: https://www.pnguin.app/
@@ -1422,7 +1616,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Your News
 - **URL**: https://yournews.app/
@@ -1430,7 +1625,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Fiper
 - **URL**: https://www.fiper.net/en/
@@ -1440,8 +1636,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## PoweReader
 - **URL**: https://powereader.app/
@@ -1449,7 +1647,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Follow
 - **URL**: https://follow.is/
@@ -1459,8 +1658,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Quick RSS
 - **URL**: https://wangchujiang.com/quick-rss/
@@ -1468,7 +1669,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## inRead
 - **URL**: https://inread.top/
@@ -1476,7 +1678,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Tapestry
 - **URL**: https://usetapestry.com/
@@ -1484,7 +1687,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 攸阅
 - **URL**: https://minapp.com/miniapp/12066/
@@ -1492,7 +1696,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Slick RSS
 - **URL**: https://github.com/hecktarzuli/slick-rss
@@ -1500,7 +1705,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(仓库已归档)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## 即刻阅
 - **URL**: https://eleduck.com/posts/N0fbEm
@@ -1508,7 +1714,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 止阅
 - **URL**: https://mp.weixin.qq.com/s/1PNLyA7IQtEQ8m8iE6MiRg
@@ -1516,7 +1723,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Reabble
 - **URL**: https://reabble.com/
@@ -1526,8 +1734,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ReadCog
 - **URL**: https://www.readcog.cn/
@@ -1535,7 +1745,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 蚁阅 anyant
 - **URL**: https://rss.anyant.com/
@@ -1549,10 +1760,14 @@ _更新于: 2026-10-01_
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSGROUND
 - **URL**: https://www.rssground.com/
@@ -1564,9 +1779,12 @@ _更新于: 2026-10-01_
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Irodr
 - **URL**: https://irodr.netlify.app/
@@ -1574,7 +1792,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedly Notifier
 - **URL**: https://olsh.me/Feedly-Notifier/
@@ -1582,7 +1801,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## The Old Reader
 - **URL**: https://theoldreader.com/
@@ -1590,7 +1810,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## NewsScroll
 - **URL**: https://arnoldvink.com/?p=projects
@@ -1598,7 +1819,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 已思 OhMyRSS
 - **URL**: https://ohmyrss.com/
@@ -1606,7 +1828,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## elink
 - **URL**: https://elink.io/
@@ -1620,10 +1843,14 @@ _更新于: 2026-10-01_
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Netvibes
 - **URL**: https://www.netvibes.com/
@@ -1631,7 +1858,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Enkel
 - **URL**: https://enkel.fyi/
@@ -1639,15 +1867,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## baRSS
 - **URL**: https://github.com/relikd/baRSS
-- **当前状态**: 正常
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Feeds Pub
 - **URL**: https://feeds.pub
@@ -1655,7 +1885,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Newspipe
 - **URL**: https://www.newspipe.org/
@@ -1665,8 +1896,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedspot
 - **URL**: https://www.feedspot.com/
@@ -1680,10 +1913,14 @@ _更新于: 2026-10-01_
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FeedHQ
 - **URL**: https://feedhq.org/
@@ -1691,7 +1928,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## BazQux
 - **URL**: https://bazqux.com/
@@ -1699,7 +1937,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Simple RSS Reader
 - **URL**: https://simplerssreader.com/
@@ -1707,7 +1946,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Miniflux
 - **URL**: https://miniflux.app/hosting.html
@@ -1715,7 +1955,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Nooshub
 - **URL**: https://www.nooshub.com/
@@ -1723,7 +1964,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## CommaFeed
 - **URL**: https://www.commafeed.com/
@@ -1733,8 +1975,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ~~flowreader~~
 - **URL**: https://flowreader.com/
@@ -1742,7 +1986,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## reedah
 - **URL**: https://www.reedah.com/
@@ -1750,7 +1995,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FeedFox
 - **URL**: https://feedfox.netlify.app/
@@ -1760,8 +2006,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedsubs
 - **URL**: https://feedsubs.com/
@@ -1771,8 +2019,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ~~Feediary~~
 - **URL**: https://blog.feediary.com/posts/2019-09-02-goodbye/
@@ -1780,7 +2030,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## WeReader
 - **URL**: https://WeReader.app
@@ -1788,7 +2039,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ProgRSSive
 - **URL**: https://progrssive.now.sh/
@@ -1798,8 +2050,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Follow.it
 - **URL**: https://follow.it/
@@ -1809,8 +2063,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## weloverss
 - **URL**: https://weloverss.com/
@@ -1818,7 +2074,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Rivered
 - **URL**: https://www.rivered.io/
@@ -1826,7 +2083,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 1feed
 - **URL**: https://1feed.app/
@@ -1834,7 +2092,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RssReader
 - **URL**: https://rssreader.cc/
@@ -1842,7 +2101,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## rssdeck
 - **URL**: https://rssdeck.wews.co.zw/
@@ -1850,7 +2110,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## A RSS Reader Demo partially using blockchain
 - **URL**: http://tool.ppkpub.org/rss/
@@ -1858,7 +2119,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## The Webpage
 - **URL**: https://news.russellsaw.io/
@@ -1866,7 +2128,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Dashboard
 - **URL**: https://rssdashboard.appspot.com/
@@ -1874,7 +2137,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ReadDig
 - **URL**: https://www.readdig.com/
@@ -1882,7 +2146,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## GoodNews
 - **URL**: https://goodnews.click/
@@ -1890,7 +2155,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Unvisited.io
 - **URL**: https://unvisited.io/
@@ -1898,7 +2164,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## feedo
 - **URL**: https://feedo-android.github.io/
@@ -1906,7 +2173,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## Pétrolette
 - **URL**: https://petrolette.space/
@@ -1914,7 +2182,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ReadMark
 - **URL**: https://readmark.io/
@@ -1922,7 +2191,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Outlooker
 - **URL**: https://reader.brokendreams.cloud
@@ -1932,8 +2202,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FeedPaper
 - **URL**: https://feedpaper.app/
@@ -1941,7 +2213,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Cake Reader
 - **URL**: https://cakereader.com/
@@ -1949,7 +2222,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## nosh
 - **URL**: https://nosh.rocks
@@ -1957,7 +2231,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## readrrr
 - **URL**: https://readrrr.co
@@ -1965,7 +2240,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Airss Reader
 - **URL**: https://airss.roastidio.us/
@@ -1973,7 +2249,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## sumi.news
 - **URL**: https://sumi.news
@@ -1981,7 +2258,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Qi Reader
 - **URL**: https://www.qireader.com/
@@ -1989,7 +2267,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS·Cafe
 - **URL**: https://rss.cafe/
@@ -1997,7 +2276,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 期待 綫上版
 - **URL**: https://v2rss.com/
@@ -2005,7 +2285,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Symfoz
 - **URL**: https://symfoz.com/
@@ -2013,7 +2294,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## WebFollow
 - **URL**: https://webfollow.cc
@@ -2021,7 +2303,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## The Feedgram
 - **URL**: https://thefeedgram.com/
@@ -2029,7 +2312,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Yakread
 - **URL**: https://yakread.com/
@@ -2037,7 +2321,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## MoFeed
 - **URL**: https://mofeed.news/
@@ -2045,7 +2330,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FeedGears
 - **URL**: https://www.feedgears.com/
@@ -2053,7 +2339,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Pindoo
 - **URL**: https://steveluoxin.github.io/
@@ -2061,7 +2348,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## GistReader
 - **URL**: https://gistreader.com/
@@ -2069,7 +2357,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FeedGrid
 - **URL**: https://feedgrid.io/
@@ -2077,7 +2366,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Vore
 - **URL**: https://vore.website/
@@ -2085,7 +2375,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Apricot
 - **URL**: https://theapricot.io/
@@ -2093,7 +2384,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FeedDeck
 - **URL**: https://feeddeck.app/
@@ -2103,8 +2395,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Readine
 - **URL**: https://pwa.readine.app/
@@ -2112,7 +2406,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feeds Fun
 - **URL**: https://feeds.fun/
@@ -2122,8 +2417,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## feedful
 - **URL**: https://feedful.app/
@@ -2131,7 +2428,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Awakari
 - **URL**: https://awakari.com/
@@ -2139,7 +2437,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Refeed
 - **URL**: https://refeedreader.com/
@@ -2149,8 +2448,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Lighthouse
 - **URL**: https://lighthouseapp.io/
@@ -2158,7 +2459,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedboard
 - **URL**: https://feedboard.app/
@@ -2166,7 +2468,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Freshet
 - **URL**: https://freshet.net/
@@ -2174,7 +2477,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS is Awesome
 - **URL**: https://rssisawesome.com/
@@ -2182,15 +2486,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Yarr
 - **URL**: https://github.com/nkanaev/yarr
-- **当前状态**: 正常
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Tiny Tiny RSS
 - **URL**: https://tt-rss.org
@@ -2198,7 +2504,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Awesome TTRSS
 - **URL**: http://ttrss.henry.wang/
@@ -2206,15 +2513,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Brook
 - **URL**: https://github.com/adamsanderson/brook
-- **当前状态**: 正常
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## tiny Reader RSS
 - **URL**: https://www.pluchon.com/en/tiny_reader_rss.php
@@ -2222,15 +2531,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 知微
 - **URL**: https://github.com/wizos/loread
-- **当前状态**: 待观察(内容不确定)
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[知微]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## FreshRSS
 - **URL**: https://freshrss.org
@@ -2238,7 +2549,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Homura
 - **URL**: https://github.com/Saul-Mirone/homura
@@ -2246,7 +2558,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(仓库已归档)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## selfoss
 - **URL**: https://selfoss.aditu.de/
@@ -2254,7 +2567,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Miniflux
 - **URL**: https://miniflux.app/index.html
@@ -2262,15 +2576,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Lettura
 - **URL**: https://github.com/zhanglun/lettura
-- **当前状态**: 正常
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Flym
 - **URL**: https://github.com/FredJul/Flym
@@ -2278,15 +2594,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(仓库已归档)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## MeRead
 - **URL**: https://github.com/gvenusleo/meread
-- **当前状态**: 正常
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Reading for RSS
 - **URL**: https://apps.apple.com/app/reading-for-rss/id1611939852
@@ -2294,7 +2612,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Collie
 - **URL**: https://parksb.github.io/work/18.html
@@ -2302,7 +2621,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(HTTP 404)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(HTTP 404)
 
 ## Heroku-Miniflux
 - **URL**: https://github.com/sayomelu/heroku-miniflux
@@ -2310,7 +2630,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(仓库不存在(404))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Stupid RSS Reader
 - **URL**: https://gurov.github.io/stupid-rss-reader/
@@ -2318,7 +2639,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## Resser 阅见
 - **URL**: https://github.com/rhinoc/Resser
@@ -2326,15 +2648,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(仓库已归档)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## NiceFeed
 - **URL**: https://github.com/joshuacerdenia/NiceFeed
-- **当前状态**: 正常
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Feedval
 - **URL**: http://feedval.com
@@ -2342,31 +2666,35 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Twine
 - **URL**: https://github.com/msasikanth/twine
-- **当前状态**: 正常
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Read You
 - **URL**: https://github.com/Ashinch/ReadYou/
-- **当前状态**: 待观察(内容不确定)
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[Read You]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Matcha - Daily RSS Digest
 - **URL**: https://github.com/piqoni/matcha
-- **当前状态**: 待观察(内容不确定)
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[Matcha - Daily RSS Digest]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## KrISS feed
 - **URL**: http://tontof.net/kriss/feed/
@@ -2374,11 +2702,12 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Social Reader
 - **URL**: https://github.com/hyphacoop/reader.distributed.press
-- **当前状态**: 失效(2/3)
+- **当前状态**: 待人工确认
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-01 | fail | 
@@ -2386,9 +2715,12 @@ _更新于: 2026-10-01_
   - 2026-09-15 | unknown | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | unknown | 标题不含关键词[Social Reader]
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | unknown | 
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## docker-ttrss
 - **URL**: https://github.com/x86dev/docker-ttrss
@@ -2396,15 +2728,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(仓库已归档)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Miniflux Indexer
 - **URL**: https://github.com/QuantumGhost/miniflux-indexer
-- **当前状态**: 待观察(内容不确定)
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[Miniflux Indexer]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## RSS Reader based on Notion
 - **URL**: https://blog.dmitrykankalovich.com/transform-notion-into-rss-reader-with-aws-lambda-and-aws-cdk-bc91c5fdc8d3
@@ -2412,7 +2746,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Bubo Reader
 - **URL**: https://george.mand.is/2019/11/introducing-bubo-rss-an-absurdly-minimalist-rss-feed-reader/
@@ -2420,15 +2755,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## docker-miniflux-postgresql
 - **URL**: https://github.com/fengkx/docker-miniflux-postgresql
-- **当前状态**: 正常
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Informate.club
 - **URL**: https://infomate.club/
@@ -2436,15 +2773,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## rss-web
 - **URL**: https://github.com/sin1ght/rss-web
-- **当前状态**: 正常
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Kodoku
 - **URL**: https://kodoku.hyoban.cc
@@ -2452,7 +2791,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Coldsweat
 - **URL**: https://lab.passiomatic.com/coldsweat/
@@ -2460,45 +2800,52 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FriRSS
 - **URL**: https://github.com/Fripix/frirss
-- **当前状态**: 正常
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Nextflux
 - **URL**: https://github.com/electh/nextflux
-- **当前状态**: 失效(1/3)
+- **当前状态**: 待人工确认
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-01 | fail | 
   - 2026-09-15 | ok | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | ok | 正常
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | ok | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Reactflux
 - **URL**: https://github.com/electh/ReactFlux
-- **当前状态**: 失效(1/3)
+- **当前状态**: 待人工确认
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-01 | fail | 
   - 2026-09-15 | ok | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | ok | 正常
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | ok | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Miniflutt
 - **URL**: https://github.com/DocMarty84/miniflutt
-- **当前状态**: 正常
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Readfine
 - **URL**: https://readfine.app
@@ -2506,7 +2853,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Outlook
 - **URL**: https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook
@@ -2514,7 +2862,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Mozilla Thunderbird
 - **URL**: https://www.thunderbird.net/
@@ -2522,7 +2871,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Vivaldi Feed Reader
 - **URL**: https://vivaldi.com/blog/vivaldi-mail-technical-preview/
@@ -2530,7 +2880,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Postbox
 - **URL**: https://www.postbox-inc.com/
@@ -2538,7 +2889,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Cypht
 - **URL**: https://cypht.org/
@@ -2546,7 +2898,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## C-LX RSS
 - **URL**: https://github.com/timovn/C-LX-RSS
@@ -2554,7 +2907,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(仓库不存在(404))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## newsbeuter
 - **URL**: https://newsbeuter.org/
@@ -2562,7 +2916,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Newsboat
 - **URL**: https://newsboat.org/
@@ -2570,7 +2925,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## feed2exec
 - **URL**: https://feed2exec.readthedocs.io/en/stable/
@@ -2578,34 +2934,39 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSMonster
 - **URL**: https://github.com/pietheinstrengholt/rssmonster
-- **当前状态**: 正常
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Grapevine
 - **URL**: https://github.com/MichaelRBond/Grapevine-Rss-Aggregator/
-- **当前状态**: 正常
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## reader
 - **URL**: https://github.com/lemon24/reader
-- **当前状态**: 失效(1/3)
+- **当前状态**: 待人工确认
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-01 | fail | 
   - 2026-09-15 | ok | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | ok | 正常
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | ok | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Journalist
 - **URL**: https://xn--gckvb8fzb.com/journalist-an-rss-aggregator/
@@ -2613,39 +2974,44 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Temboz
 - **URL**: https://github.com/fazalmajid/temboz
-- **当前状态**: 正常
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Leed (Light Feed)
 - **URL**: https://github.com/LeedRSS/Leed
-- **当前状态**: 待观察(内容不确定)
-- **检查周期**:
-  - 2026-09-01 | unknown | 
-  - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[Leed (Light Feed)]
-
-## Awesome Miniflux
-- **URL**: https://github.com/hirusi/awesome-miniflux
-- **当前状态**: 待观察(内容不确定)
-- **检查周期**:
-  - 2026-09-01 | unknown | 
-  - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[Awesome Miniflux]
-
-## Orpinton News
-- **URL**: https://github.com/frysztak/orpington-news
 - **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
+
+## Awesome Miniflux
+- **URL**: https://github.com/hirusi/awesome-miniflux
+- **当前状态**: 失效(1/3)
+- **检查周期**:
+  - 2026-09-01 | unknown | 
+  - 2026-09-15 | unknown | 
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
+
+## Orpinton News
+- **URL**: https://github.com/frysztak/orpington-news
+- **当前状态**: 失效(2/3)
+- **检查周期**:
+  - 2026-09-01 | unknown | 
+  - 2026-09-15 | unknown | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## cast-text
 - **URL**: https://github.com/piqoni/cast-text
@@ -2653,7 +3019,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## GORSS - Go RSS Reader
 - **URL**: https://github.com/Lallassu/gorss
@@ -2661,15 +3028,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Huntly
 - **URL**: https://github.com/lcomplete/huntly
-- **当前状态**: 失效(1/3)
+- **当前状态**: 失效(2/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## neix
 - **URL**: https://github.com/tomschwarz/neix
@@ -2677,15 +3046,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Stringer
 - **URL**: https://github.com/swanson/stringer
-- **当前状态**: 正常
+- **当前状态**: 失效(1/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Inoreader to Miniflux/v2 GitHub Gist
 - **URL**: https://gist.github.com/douo/3e37bc863c5af9cbf393fe8724be6bb4
@@ -2693,7 +3064,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[Inoreader to Miniflux/v2 GitHub Gist]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[Inoreader to Miniflux/v2 GitHub Gist]
 
 ## Notion-Feed
 - **URL**: https://notion-feed.com/
@@ -2701,7 +3073,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Notion RSS Reader
 - **URL**: https://dev.to/watsuyo/new-release-notion-rss-reader-1jc4
@@ -2709,15 +3082,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## srcrs/rss-reader
 - **URL**: https://github.com/srcrs/rss-reader
-- **当前状态**: 失效(1/3)
+- **当前状态**: 失效(2/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## RSS Video Player
 - **URL**: http://rssvideoplayer.com/
@@ -2725,7 +3100,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Miro
 - **URL**: http://www.getmiro.com/
@@ -2733,7 +3109,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ARSSE
 - **URL**: https://thearsse.com/
@@ -2741,7 +3118,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Zotero
 - **URL**: https://zotero.org
@@ -2749,7 +3127,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ZotEZ²
 - **URL**: https://zotez2.ezbio.net/index.php
@@ -2757,15 +3136,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Fusion
 - **URL**: https://github.com/0x2E/fusion
-- **当前状态**: 失效(1/3)
+- **当前状态**: 失效(2/3)
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## feed.nvim - Neovim Web Feed Reader
 - **URL**: https://github.com/neo451/feed.nvim
@@ -2773,7 +3154,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Microsoft SharePoint
 - **URL**: https://sharepoint.handsontek.net/2020/11/01/create-rss-feed-using-sharepoint-news/
@@ -2781,7 +3163,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Brave Today
 - **URL**: https://brave.com/brave-today-rss/
@@ -2789,7 +3172,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## utools
 - **URL**: https://u.tools/
@@ -2797,7 +3181,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Planet
 - **URL**: https://planetable.eth.limo/C171164A-F0B7-4915-9FC6-4BC4217D7971/
@@ -2805,7 +3190,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Cleed
 - **URL**: https://github.com/radulucut/cleed
@@ -2813,7 +3199,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Syndicationd
 - **URL**: https://github.com/ymgyt/syndicationd
@@ -2821,15 +3208,17 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Dashboard
 - **URL**: https://github.com/Rozhovetskyi/Dashboard
-- **当前状态**: 失效(2/3)
+- **当前状态**: 待人工确认
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Elfeed Emacs Web Feed Reader
 - **URL**: https://github.com/skeeto/elfeed
@@ -2837,7 +3226,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Mastofeeder
 - **URL**: https://mastofeeder.com/
@@ -2845,7 +3235,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## EAF RSS
 - **URL**: https://github.com/emacs-eaf/eaf-rss-reader
@@ -2853,7 +3244,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## TidyRead
 - **URL**: https://www.tidyread.info/
@@ -2861,7 +3253,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Stario Launcher
 - **URL**: https://www.producthunt.com/products/stario-launcher
@@ -2869,7 +3262,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## NetNewsWire TestFlight
 - **URL**: https://netnewswire.com/test-ios
@@ -2877,7 +3271,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Xfeed
 - **URL**: https://xfeed.app/explore
@@ -2885,7 +3280,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## GitHub
 - **URL**: https://www.ronaldsvilcins.com/2020/03/26/rss-feeds-for-your-github-releases-tags-and-activity/
@@ -2893,7 +3289,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## YouTube
 - **URL**: https://chriswere.uk/rss-youtube.html
@@ -2901,7 +3298,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Medium
 - **URL**: https://help.medium.com/hc/en-us/articles/214874118-Using-RSS-feeds-of-profiles-publications-and-topics
@@ -2909,7 +3307,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## DuckDuckGo
 - **URL**: https://www.reddit.com/r/rss/comments/lckjjr/bing_rss_search_operators_yesbing/
@@ -2921,9 +3320,12 @@ _更新于: 2026-10-01_
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Vimeo
 - **URL**: https://help.rasa.io/hc/en-us/articles/360045535193-How-to-create-an-rss-feed-for-a-Vimeo-channel
@@ -2931,7 +3333,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Hey World
 - **URL**: https://hey.com/world/
@@ -2941,8 +3344,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Apple Developer Forum
 - **URL**: https://developer.apple.com/news/?id=n33tv3lm
@@ -2950,7 +3355,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Odysee
 - **URL**: https://odysee.com/@Odysee:8/odysee-rss:4?r=jPVaXdN5LXrmMYrGQvJzQmrztE4sDnxy
@@ -2958,7 +3364,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS3 - The Feed of Web3
 - **URL**: https://twitter.com/rss3_/status/1539749435835662336
@@ -2966,7 +3373,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## rssTea
 - **URL**: https://github.com/avadhesh18/rssTea
@@ -2974,7 +3382,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## eilmeldung
 - **URL**: https://github.com/christo-auer/eilmeldung
@@ -2982,7 +3391,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## The Top 125 RSS Open Source Projects
 - **URL**: https://awesomeopensource.com/projects/rss
@@ -2992,8 +3402,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS 工具大全 by 幻璧
 - **URL**: https://blog.wizos.me/20180412-134.html
@@ -3003,8 +3415,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS 项目: a WorkFlowy list
 - **URL**: https://workflowy.com/#/6e20a3531287
@@ -3014,8 +3428,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS指南
 - **URL**: https://efficiencyfollow.notion.site/RSS-01f580f05df2412993c5ad0f68f0a95d
@@ -3025,8 +3441,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Public instances on official page
 - **URL**: https://docs.rsshub.app/guide/instances
@@ -3034,7 +3452,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Third-party instances within the Follow app
 - **URL**: https://app.follow.is/rsshub
@@ -3042,7 +3461,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSeveryday
 - **URL**: https://github.com/GuangzheJiang/rss_everyday
@@ -3050,7 +3470,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## osmos::feed
 - **URL**: https://github.com/osmoscraft/osmosfeed
@@ -3058,7 +3479,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## GARSS
 - **URL**: https://github.com/zhaoolee/garss
@@ -3066,7 +3488,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Bubo reader
 - **URL**: https://github.com/georgemandis/bubo-rss
@@ -3074,7 +3497,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## NotionFeeder
 - **URL**: https://github.com/ravgeetdhillon/notion-feeder
@@ -3082,7 +3506,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Obsidian-RSS
 - **URL**: https://github.com/joethei/obsidian-rss
@@ -3090,7 +3515,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Feedolin
 - **URL**: https://github.com/strukturart/feedolin
@@ -3098,7 +3524,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## VSCode-RSS
 - **URL**: https://github.com/luyuhuang/vscode-rss
@@ -3106,7 +3533,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Posidon launcher
 - **URL**: https://github.com/lposidon/posidonLauncher
@@ -3114,7 +3542,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## NodeRSSbot
 - **URL**: https://rssbot.vercel.app/
@@ -3122,7 +3551,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feed Readers @ Awesome-Selfhosted
 - **URL**: https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers
@@ -3132,8 +3562,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## sensor.feedparser
 - **URL**: https://github.com/custom-components/feedparser
@@ -3141,7 +3573,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Legado
 - **URL**: https://gedoor.github.io/
@@ -3149,7 +3582,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[Legado]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[Legado]
 
 ## PlainApp
 - **URL**: https://github.com/ismartcoding/plain-app
@@ -3157,9 +3591,10 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
-## Reeder like theme
+## miniflux-theme-reeder
 - **URL**: https://github.com/rootknight/Miniflux-Theme-Reeder
 - **当前状态**: 待人工确认
 - **检查周期**:
@@ -3167,8 +3602,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Tiny Tiny RSS Feedlish Theme
 - **URL**: https://github.com/Gravemind/tt-rss-feedlish-theme
@@ -3176,7 +3613,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## devonthink-heti
 - **URL**: https://github.com/sivan/devonthink-heti
@@ -3184,7 +3622,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## ttrss-theme-rsshub
 - **URL**: https://github.com/DIYgod/ttrss-theme-rsshub
@@ -3192,7 +3631,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Public Hosts
 - **URL**: https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html
@@ -3200,7 +3640,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## reminiflux
 - **URL**: https://reminiflux.github.io/
@@ -3208,7 +3649,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## @rssthu_bot
 - **URL**: https://t.me/rssthu_bot
@@ -3216,7 +3658,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## @laoxongRss_bot
 - **URL**: https://t.me/laoxongRss_bot
@@ -3224,7 +3667,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## TheFeedReaderBot
 - **URL**: http://thefeedreaderbot.com/index.html
@@ -3232,7 +3676,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## @withdewhua_rss_bot
 - **URL**: https://t.me/withdewhua_rss_bot
@@ -3242,8 +3687,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
+  - 2026-10-15 | ok | 正常
 
 ## @Ekkrss_bot
 - **URL**: https://t.me/Ekkrss_bot
@@ -3251,7 +3698,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## DragaNewsBot
 - **URL**: https://t.me/DragaNewsBot
@@ -3259,7 +3707,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## ~~EventsAggregatorBot~~
 - **URL**: https://t.me/EventsAggregatorBot
@@ -3267,7 +3716,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## RustRssBot
 - **URL**: https://t.me/RustRssBot
@@ -3275,7 +3725,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## @feiyuyurss_bot
 - **URL**: https://t.me/feiyuyurss_bot
@@ -3283,7 +3734,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## @OhMyRSSBot
 - **URL**: https://t.me/OhMyRSSBot
@@ -3291,7 +3743,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## @Finger_RSS_bot
 - **URL**: https://t.me/Finger_RSS_bot
@@ -3299,7 +3752,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## @rsswikibot
 - **URL**: https://t.me/rsswikibot
@@ -3307,7 +3761,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## @jellow_rss_bot
 - **URL**: https://t.me/jellow_rss_bot
@@ -3315,7 +3770,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## ~~flowerss~~
 - **URL**: https://t.me/rssflowbot
@@ -3323,7 +3779,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[flowerss]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[flowerss]
 
 ## The RSS endpoint Gist
 - **URL**: https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2#readersaggregators
@@ -3331,7 +3788,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[The RSS endpoint Gist]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[The RSS endpoint Gist]
 
 ## Pink-Feedly Theme for Tiny Tiny RSS
 - **URL**: https://t.me/s/realSpencerWoo/85
@@ -3339,7 +3797,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[Pink-Feedly Theme for Tiny Tiny RSS]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[Pink-Feedly Theme for Tiny Tiny RSS]
 
 ## 酷Q
 - **URL**: https://cqp.cc/
@@ -3347,7 +3806,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## el-bot
 - **URL**: https://docs.bot.elpsy.cn/js/plugins/default.html#rss
@@ -3355,7 +3815,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## rss2tg_bot
 - **URL**: https://t.me/rss2tg_bot
@@ -3363,7 +3824,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## Hamibot
 - **URL**: https://hamibot.com/
@@ -3371,7 +3833,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## @newsbot
 - **URL**: https://mastodon.social/@newsbot
@@ -3379,7 +3842,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Parrot
 - **URL**: https://rss-parrot.net/
@@ -3389,8 +3853,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## @RSSBot
 - **URL**: https://matrix.to/#/@rss:t2bot.io
@@ -3398,7 +3864,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Radio3io
 - **URL**: http://radio3.io/
@@ -3406,7 +3873,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Micro.blog
 - **URL**: https://micro.blog
@@ -3414,7 +3882,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ELF RSS
 - **URL**: https://github.com/Quan666/ELF_RSS
@@ -3422,7 +3891,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## SearQ
 - **URL**: https://searq.org/
@@ -3432,8 +3902,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## The Ukora:tm: News Search Service
 - **URL**: https://www.rsssearchhub.com/
@@ -3441,7 +3913,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Micro
 - **URL**: http://www.rssmicro.com/
@@ -3449,7 +3922,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## The RSS Discovery Engine
 - **URL**: https://rdengine.herokuapp.com/
@@ -3457,7 +3931,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedle
 - **URL**: https://feedle.world/
@@ -3465,7 +3940,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## rss.ag
 - **URL**: http://rss.ag/
@@ -3473,7 +3949,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Wire
 - **URL**: https://search.wirereader.app/
@@ -3481,7 +3958,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Awakari
 - **URL**: https://awakari.com/login.html
@@ -3489,7 +3967,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## OpenOrb
 - **URL**: https://openorb.idiot.sh/
@@ -3497,7 +3976,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Pipes
 - **URL**: https://www.pipes.digital/
@@ -3505,7 +3985,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## IFTTT
 - **URL**: https://ifttt.com
@@ -3513,7 +3994,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Platypush
 - **URL**: https://platypush.readthedocs.io/en/latest/
@@ -3523,8 +4005,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Zapier
 - **URL**: https://zapier.com
@@ -3532,7 +4016,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Power Automate
 - **URL**: https://flow.microsoft.com/
@@ -3542,8 +4027,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS for Hackers @ Pipedream
 - **URL**: https://rss.pipedream.com/
@@ -3551,7 +4038,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## n8n.io
 - **URL**: https://n8n.io/
@@ -3559,7 +4047,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Integromat
 - **URL**: https://www.integromat.com/
@@ -3567,7 +4056,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## OneUp
 - **URL**: https://oneupapp.io
@@ -3575,7 +4065,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Huginn
 - **URL**: https://github.com/huginn/huginn
@@ -3587,9 +4078,12 @@ _更新于: 2026-10-01_
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Pipethru
 - **URL**: https://www.pipethru.com/
@@ -3597,7 +4091,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ~~Automate.io~~
 - **URL**: https://automate.io/
@@ -3605,7 +4100,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## AximoBot
 - **URL**: https://t.me/AximoBot
@@ -3613,7 +4109,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## integrately
 - **URL**: https://integrately.com/
@@ -3621,7 +4118,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Refind
 - **URL**: https://refind.com/
@@ -3629,7 +4127,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Informate
 - **URL**: https://informate.elsetech.io/
@@ -3637,7 +4136,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Castbee
 - **URL**: https://castbee.net/
@@ -3647,8 +4147,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS hosting
 - **URL**: https://www.rss-hosting.com/
@@ -3656,7 +4158,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSHub
 - **URL**: https://docs.rsshub.app/
@@ -3664,7 +4167,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FeedSubscriberBot
 - **URL**: https://t.me/FeedSubscriberBot
@@ -3672,7 +4176,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## FeedManBot
 - **URL**: https://t.me/FeedManBot
@@ -3680,7 +4185,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## el_monitorro_bot
 - **URL**: https://t.me/el_monitorro_bot
@@ -3688,7 +4194,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## RSS.app
 - **URL**: https://rss.app/
@@ -3696,7 +4203,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## rss_bot
 - **URL**: https://t.me/rss_bot
@@ -3706,8 +4214,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | ok | 
   - 2026-09-15 | unknown | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | unknown | 标题不含关键词[RSS Bot]
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | unknown | 
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | unknown | 标题不含关键词[RSS Bot]
+  - 2026-10-15 | ok | 正常
 
 ## granary
 - **URL**: https://granary.io/
@@ -3717,8 +4227,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feed2Telegram
 - **URL**: https://t.me/Feed2Telegram_bot
@@ -3726,7 +4238,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## feedpushr
 - **URL**: https://github.com/ncarlier/feedpushr
@@ -3734,7 +4247,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## RSS Box
 - **URL**: https://rssbox.herokuapp.com/
@@ -3742,7 +4256,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## OpenRSS
 - **URL**: https://openrss.org/
@@ -3750,7 +4265,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## pyrsshub
 - **URL**: https://pyrsshub.vercel.app/feeds
@@ -3758,7 +4274,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Versionfeeds
 - **URL**: https://versionfeeds.com/
@@ -3766,7 +4283,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS-proxy
 - **URL**: https://rssproxy-v1.migor.org
@@ -3774,7 +4292,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## VeRSSion
 - **URL**: https://verssion.one/
@@ -3782,7 +4301,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## News Keeper
 - **URL**: https://t.me/newskeeperbot
@@ -3790,7 +4310,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[News Keeper]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[News Keeper]
 
 ## WebRSS
 - **URL**: http://www.webrss.com/
@@ -3798,7 +4319,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedity
 - **URL**: https://feedity.com/
@@ -3806,7 +4328,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FetchRSS
 - **URL**: http://fetchrss.com/
@@ -3816,8 +4339,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## PolitePol
 - **URL**: http://politepol.com/
@@ -3825,7 +4350,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ~~FeedOcean~~
 - **URL**: https://feedocean.com/
@@ -3833,7 +4359,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feed Creator 2.0
 - **URL**: https://createfeed.fivefilters.org/
@@ -3841,7 +4368,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RobotRSS
 - **URL**: https://t.me/PyRSSBot
@@ -3849,7 +4377,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[RobotRSS]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[RobotRSS]
 
 ## rsstodolist
 - **URL**: https://rsstodolist.eu/
@@ -3857,7 +4386,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feed me up, Scotty!
 - **URL**: https://feed-me-up-scotty.vincenttunru.com/
@@ -3865,7 +4395,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedfry
 - **URL**: https://feedfry.com
@@ -3873,7 +4404,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Please
 - **URL**: https://www.wezm.net/v2/posts/2022/generate-rss-from-webpage/
@@ -3881,7 +4413,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Fidder
 - **URL**: https://t.me/FidderBot
@@ -3889,7 +4422,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## ChangeDetection
 - **URL**: https://lemonade.changedetection.io/start
@@ -3897,7 +4431,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSEverything
 - **URL**: https://rss.stephenslab.top/
@@ -3905,7 +4440,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedmaker
 - **URL**: https://feedmaker.fly.dev/
@@ -3913,7 +4449,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSHub
 - **URL**: https://docs.rsshub.app/routes/other#zhuan-huan
@@ -3921,7 +4458,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Bridge
 - **URL**: https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge
@@ -3929,7 +4467,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedropolis
 - **URL**: https://feedropolis.cryptic.link/
@@ -3937,7 +4476,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Anything
 - **URL**: https://rss.diffbot.com/
@@ -3945,7 +4485,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSWebAll
 - **URL**: https://rssweball.top/
@@ -3953,7 +4494,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## AI RSS
 - **URL**: https://airss.ft07.com
@@ -3961,7 +4503,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RobotRSS
 - **URL**: https://t.me/PyRSS2Bot
@@ -3969,7 +4512,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[RobotRSS]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[RobotRSS]
 
 ## RSS-Bridge
 - **URL**: https://github.com/RSS-Bridge/rss-bridge/wiki
@@ -3977,7 +4521,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Google Alerts
 - **URL**: https://www.google.com/alerts
@@ -3985,7 +4530,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Google News
 - **URL**: https://news.google.com/
@@ -3993,7 +4539,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Talkwalker Alerts
 - **URL**: https://www.talkwalker.com/alerts
@@ -4001,7 +4548,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## AwakariBot
 - **URL**: https://t.me/AwakariBot
@@ -4009,7 +4557,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## GigaAlert
 - **URL**: http://www.gigaalert.com/
@@ -4017,7 +4566,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Kill the Newsletter!
 - **URL**: https://www.kill-the-newsletter.com/
@@ -4025,7 +4575,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSbot
 - **URL**: https://github.com/yindaheng98/RSSBot
@@ -4033,7 +4584,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Notifier
 - **URL**: https://notifier.in/
@@ -4045,9 +4597,12 @@ _更新于: 2026-10-01_
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## emails2rss
 - **URL**: http://emails2rss.appspot.com/
@@ -4055,7 +4610,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Mailnesia
 - **URL**: https://mailnesia.com/
@@ -4063,7 +4619,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feed4Mail
 - **URL**: https://feed4.email/
@@ -4071,7 +4628,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## padlet
 - **URL**: https://padlet.com
@@ -4079,7 +4637,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Kanban Tool
 - **URL**: https://kanbantool.com/
@@ -4087,7 +4646,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## MyBoard
 - **URL**: https://myboard.co/features/rss-feeds-for-board
@@ -4095,7 +4655,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Queryfeed
 - **URL**: https://queryfeed.net/
@@ -4103,7 +4664,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Bing News RSS feeds
 - **URL**: https://www.bing.com/news/search?q=QUERY&format=rss
@@ -4111,7 +4673,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## rss.yuji.ne.jp
 - **URL**: https://rss.yuji.ne.jp
@@ -4119,7 +4682,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## nitter
 - **URL**: https://nitter.net
@@ -4127,7 +4691,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Twiiit
 - **URL**: https://twiiit.com/
@@ -4135,7 +4700,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## TwiSSR
 - **URL**: http://www.twissr.com/
@@ -4143,7 +4709,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## TwitRSS
 - **URL**: http://twitrss.me/
@@ -4151,7 +4718,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Typefully Profiles
 - **URL**: https://typefully.com/profile
@@ -4161,8 +4729,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## TweetFeed
 - **URL**: http://tweetfeed.org/
@@ -4170,7 +4740,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## gh-feed
 - **URL**: http://gh-feed.imsun.net
@@ -4178,7 +4749,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## MarketChorus News Alerts
 - **URL**: https://followthisstory.com/
@@ -4186,7 +4758,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FB-RSS
 - **URL**: https://fbrss.com/
@@ -4194,7 +4767,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS to Telegram Bot
 - **URL**: https://t.me/RSStT_Bot
@@ -4204,8 +4778,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[RSS to Telegram Bot]
-  - 2026-10-01 | unknown | 标题不含关键词[RSS to Telegram Bot]
+  - 2026-10-01 | unknown | 
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[RSS to Telegram Bot]
+  - 2026-10-15 | unknown | 标题不含关键词[RSS to Telegram Bot]
 
 ## opml-gen
 - **URL**: https://opml.bb8.fun/
@@ -4213,7 +4789,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## TrackAwesomeList
 - **URL**: https://www.trackawesomelist.com
@@ -4221,7 +4798,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feed the Star
 - **URL**: https://feed-the-star.herokuapp.com/
@@ -4229,7 +4807,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSWBot
 - **URL**: https://t.me/RSSWBot
@@ -4237,7 +4816,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## RSSHub Radar
 - **URL**: https://diygod.me/rsshub-radar/
@@ -4247,8 +4827,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## TelegramRSS
 - **URL**: https://tg.i-c-a.su/
@@ -4256,7 +4838,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## G Reader
 - **URL**: https://t.me/GReaderBot
@@ -4264,7 +4847,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[G Reader]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[G Reader]
 
 ## Metogram
 - **URL**: https://metogram.com/
@@ -4272,7 +4856,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Realtime RSS feeds for _Hacker News_
 - **URL**: https://hnrss.org
@@ -4280,7 +4865,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Headllines
 - **URL**: https://headllines.com/
@@ -4288,7 +4874,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Hacker News Digest
 - **URL**: http://hackernews.betacat.io/
@@ -4296,7 +4883,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Hacker News RSS Feed for Busy People
 - **URL**: https://hackernewsrss.com/
@@ -4304,7 +4892,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Userscript: Export YouTube Subscriptions to RSS OPML
 - **URL**: https://greasyfork.org/scripts/418574
@@ -4312,7 +4901,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Banditore
 - **URL**: https://bandito.re/
@@ -4320,7 +4910,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 9gag RSS
 - **URL**: https://9gagrss.xyz/
@@ -4328,7 +4919,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ~~rss.yt~~
 - **URL**: https://rss.yt/
@@ -4336,7 +4928,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Itunes to RSS by PodShows
 - **URL**: https://podshows.fr/itunesrss
@@ -4344,7 +4937,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## GetRSSfeed
 - **URL**: http://getrssfeed.com/
@@ -4354,8 +4948,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## itunesrss
 - **URL**: http://gromnitsky.users.sourceforge.net/js/itunesrss/
@@ -4363,7 +4959,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Spotifeed
 - **URL**: https://spotifeed.timdorr.com/
@@ -4371,7 +4968,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## TuneFeed
 - **URL**: https://tunefeed.app/
@@ -4379,7 +4977,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Filter RSS
 - **URL**: https://filterrss.com/
@@ -4387,7 +4986,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Twitter Followings OPML Export
 - **URL**: https://opml.glitch.me/
@@ -4395,7 +4995,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Siftlink
 - **URL**: http://siftlinks.com/
@@ -4403,7 +5004,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## TOFEED
 - **URL**: https://tofeed.net/
@@ -4411,7 +5013,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feeds Mage
 - **URL**: https://www.feedsmage.com/
@@ -4419,7 +5022,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RsS iS dEaD LOL
 - **URL**: https://rss-is-dead.lol/
@@ -4427,7 +5031,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Hypothesis
 - **URL**: https://hypothes.is
@@ -4435,7 +5040,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Notado
 - **URL**: https://notado.app/
@@ -4443,7 +5049,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Pinboard
 - **URL**: http://pinboard.in/
@@ -4451,7 +5058,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Delicious
 - **URL**: http://del.icio.us
@@ -4459,7 +5067,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Raindrop
 - **URL**: https://raindrop.io
@@ -4467,7 +5076,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## wallabag
 - **URL**: https://wallabag.org/en
@@ -4475,7 +5085,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## mkfd
 - **URL**: https://github.com/TBosak/mkfd
@@ -4483,7 +5094,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## LinkyRSS
 - **URL**: https://linkyrssdemo.inmytree.co.za/
@@ -4491,7 +5103,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## LinkAce
 - **URL**: https://www.linkace.org/
@@ -4499,7 +5112,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## HamsterBase
 - **URL**: https://hamsterbase.com/
@@ -4507,7 +5121,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Last.fm RSS Feeds
 - **URL**: https://lfm.xiffy.nl/
@@ -4515,7 +5130,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSerpent
 - **URL**: https://github.com/RSSerpent/RSSerpent
@@ -4523,7 +5139,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Crssnt
 - **URL**: https://crssnt.com/
@@ -4531,7 +5148,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Worker
 - **URL**: https://github.com/yllhwa/RSSWorker
@@ -4539,7 +5157,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Twitch stream RSS generator
 - **URL**: https://twitchrss.appspot.com/
@@ -4547,7 +5166,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Omnivore
 - **URL**: https://omnivore.app/
@@ -4555,7 +5175,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ProxiTok
 - **URL**: https://proxitok.herokuapp.com/
@@ -4563,7 +5184,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## TikTok stream RSS generator
 - **URL**: https://ttrss.mybluemix.net/
@@ -4571,7 +5193,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Submirror
 - **URL**: http://submirror.xyz
@@ -4579,7 +5202,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Sheet-posting
 - **URL**: https://www.sheet-posting.me/
@@ -4587,7 +5211,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## BibiGPT
 - **URL**: https://airss.co/
@@ -4595,7 +5220,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Weibo to RSS
 - **URL**: https://rssfeed.today/weibo/
@@ -4603,7 +5229,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 瞅啥
 - **URL**: http://www.gzhshoulu.wang/
@@ -4611,7 +5238,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## WeRSS
 - **URL**: https://werss.app/
@@ -4619,7 +5247,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Bookfeed.io
 - **URL**: https://bookfeed.io/
@@ -4627,7 +5256,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSHub
 - **URL**: https://docs.rsshub.app/new-media.html#wei-xin
@@ -4635,7 +5265,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Mastodon Bookmark RSS
 - **URL**: https://bookmark-rss.woodland.cafe/
@@ -4643,7 +5274,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Vread
 - **URL**: https://www.vreadtech.com/
@@ -4651,7 +5283,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 瓦斯阅读
 - **URL**: https://qnmlgb.tech/
@@ -4659,7 +5292,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS订阅源
 - **URL**: https://www.wechatrss.com/
@@ -4667,7 +5301,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS屋
 - **URL**: https://rss.mifaw.com/
@@ -4677,8 +5312,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 外接大脑
 - **URL**: https://www.waijiedanao.com/
@@ -4686,7 +5323,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 今天看啥
 - **URL**: http://www.jintiankansha.me/
@@ -4694,7 +5332,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FreeRss
 - **URL**: http://www.freerss.top/
@@ -4702,7 +5341,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## feeddd
 - **URL**: https://feeddd.org/
@@ -4710,7 +5350,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 微信公众号转RSS
 - **URL**: https://wechat2rss.xlab.app/
@@ -4718,7 +5359,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Free Monitor Certificate expiry via RSS
 - **URL**: https://raphting.dev/posts/monitor-rss/
@@ -4726,7 +5368,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## WxRss
 - **URL**: https://wxrss.vip/
@@ -4734,7 +5377,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Subscribe V2EX post comments
 - **URL**: https://rss.lilydjwg.me/
@@ -4748,10 +5392,14 @@ _更新于: 2026-10-01_
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSme
 - **URL**: http://www.amlpages.com/rssme.shtml
@@ -4759,7 +5407,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## EchoFeed
 - **URL**: https://echofeed.app/
@@ -4775,11 +5424,16 @@ _更新于: 2026-10-01_
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## NebulaPicker
 - **URL**: https://github.com/djsilva99/nebulapicker
@@ -4787,7 +5441,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(API限流(403))
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## RSStoKindle
 - **URL**: https://www.rsstokindle.com/
@@ -4795,7 +5450,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## WhereMyLife
 - **URL**: http://wheremylife.cn/
@@ -4803,7 +5459,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FreshRSS 1.20.0
 - **URL**: https://github.com/FreshRSS/FreshRSS/releases/tag/1.20.0
@@ -4811,7 +5468,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Kindle4RSS
 - **URL**: http://kindle4rss.com/
@@ -4819,7 +5477,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Calibre
 - **URL**: https://calibre-ebook.com/
@@ -4827,7 +5486,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## KOReader
 - **URL**: http://koreader.rocks/
@@ -4835,7 +5495,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Ktool
 - **URL**: https://ktool.io/
@@ -4843,7 +5504,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## SyncReads
 - **URL**: https://www.syncreads.com/
@@ -4853,8 +5515,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedsub
 - **URL**: https://www.feedsub.com/
@@ -4862,7 +5526,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ~~RSS-To-Email~~
 - **URL**: https://rss-to-email.portablecto.com/
@@ -4870,7 +5535,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedblitz
 - **URL**: https://www.feedblitz.com/
@@ -4878,7 +5544,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ProductHunt daily RSS feed
 - **URL**: https://github.com/headllines/producthunt-daily-rss
@@ -4886,7 +5553,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Actionsflow
 - **URL**: https://actionsflow.github.io/
@@ -4894,7 +5562,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## a Python script
 - **URL**: https://www.sharpgan.com/receive-email-from-solidot-ithome-linuxcn/
@@ -4902,7 +5571,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feed2Mail
 - **URL**: https://www.feed2mail.com/
@@ -4910,7 +5580,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSbyEmail
 - **URL**: https://rssby.email/
@@ -4920,8 +5591,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedrabbit
 - **URL**: https://feedrabbit.com/
@@ -4929,7 +5602,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FeedMail
 - **URL**: https://feedmail.org/
@@ -4937,7 +5611,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## rssto.email
 - **URL**: https://rssto.email/
@@ -4945,7 +5620,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## mail2rss
 - **URL**: https://github.com/lengthmin/mail2rss
@@ -4953,7 +5629,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## FeedSubscription
 - **URL**: https://feedsubscription.com/
@@ -4961,7 +5638,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ~~RSSMailer~~briefcake
 - **URL**: https://briefcake.com/?ref=rssmailer.app
@@ -4969,7 +5647,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Blogtrottr
 - **URL**: https://blogtrottr.com/
@@ -4977,7 +5656,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ~~Digester~~
 - **URL**: https://digester.app/
@@ -4985,7 +5665,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Cortado
 - **URL**: https://cortadomail.com/
@@ -4993,7 +5674,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Alerts
 - **URL**: https://rssalert.operand.ai/
@@ -5001,7 +5683,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Mailbrew
 - **URL**: https://mailbrew.com/
@@ -5009,7 +5692,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Publicate
 - **URL**: https://publicate.it/
@@ -5017,7 +5701,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Nourish
 - **URL**: https://www.nouri.sh/
@@ -5025,7 +5710,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedbutler
 - **URL**: https://feedbutler.app/en/
@@ -5033,7 +5719,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ~~FeedMailu~~
 - **URL**: https://feedmailu.com/
@@ -5041,7 +5728,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FlipRSS
 - **URL**: https://fliprss.com/
@@ -5049,7 +5737,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ~~Revue~~
 - **URL**: https://www.getrevue.co/
@@ -5057,7 +5746,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ~~Bulletyn~~
 - **URL**: http://bulletyn.co/
@@ -5065,7 +5755,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## mailchimp
 - **URL**: https://mailchimp.com/
@@ -5073,7 +5764,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ~~Subworthy~~
 - **URL**: https://subworthy.com/
@@ -5081,7 +5773,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Digest
 - **URL**: https://usedigest.com/
@@ -5089,7 +5782,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Buttondown
 - **URL**: https://buttondown.email/
@@ -5097,7 +5791,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Taco Digest
 - **URL**: https://tacodigest.com/
@@ -5105,7 +5800,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## TidyRead
 - **URL**: https://tidyread.ai/
@@ -5113,7 +5809,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## lightfeed
 - **URL**: https://www.lightfeed.app/
@@ -5121,7 +5818,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## socialdog
 - **URL**: https://social-dog.net/en/
@@ -5129,7 +5827,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedio
 - **URL**: https://feedio.co
@@ -5139,8 +5838,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## dlvr.it
 - **URL**: https://dlvrit.com
@@ -5150,8 +5851,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## GitHub Trending RSS
 - **URL**: https://mshibanami.github.io/GitHubTrendingRSS/
@@ -5159,7 +5862,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## RSStoTweet
 - **URL**: https://rsstotweet.xyz/
@@ -5167,7 +5871,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## tg-archive
 - **URL**: https://github.com/knadh/tg-archive
@@ -5175,7 +5880,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(API限流(403))
 
 ## Youtube RSS Extractor
 - **URL**: https://jeffkeeling.github.io/youtube_rss_extractor/
@@ -5183,7 +5889,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## Reabble for Android
 - **URL**: https://github.com/zmk-ink/reabble-android
@@ -5191,7 +5898,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## YouTube RSS Finder
 - **URL**: https://github.com/teddy-gustiaux/youtube-rss-finder
@@ -5199,7 +5907,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Liuli
 - **URL**: https://github.com/liuli-io/liuli
@@ -5207,7 +5916,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Feedly action for Google Assistant
 - **URL**: https://blog.feedly.com/hey-google-talk-to-feedly/
@@ -5215,7 +5925,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Narro
 - **URL**: https://www.narro.co/rss-feeds
@@ -5223,7 +5934,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## WeWe RSS
 - **URL**: https://github.com/cooderl/wewe-rss/
@@ -5231,7 +5943,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Kindle Ear
 - **URL**: https://github.com/cdhigh/KindleEar
@@ -5239,7 +5952,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Call Annie
 - **URL**: https://callannie.ai/
@@ -5247,7 +5961,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS feed in your Notion pages
 - **URL**: https://notion-widget-rss.vercel.app/
@@ -5255,7 +5970,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## feedwind
 - **URL**: https://feed.mikle.com/
@@ -5263,7 +5979,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedzy RSS Feeds for WordPress
 - **URL**: https://themeisle.com/plugins/feedzy-rss-feeds/
@@ -5273,8 +5990,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## MOONMOON
 - **URL**: https://moonmoon.org/
@@ -5282,7 +6001,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## TINT
 - **URL**: https://www.tintup.com/blog/the-best-rss-widget/
@@ -5290,7 +6010,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## CommonNinja
 - **URL**: https://www.commoninja.com/plugins/feeds
@@ -5298,7 +6019,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS DOG
 - **URL**: https://www.rssdog.com/
@@ -5306,7 +6028,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## WP RSS Aggregator
 - **URL**: https://wordpress.org/plugins/wp-rss-aggregator/
@@ -5314,7 +6037,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Super RSS Reader
 - **URL**: https://www.aakashweb.com/wordpress-plugins/super-rss-reader/
@@ -5322,7 +6046,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## tagembed
 - **URL**: https://tagembed.com/rss-widget/
@@ -5330,7 +6055,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## py-feedr
 - **URL**: https://github.com/M157q/py-feedr
@@ -5338,7 +6064,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## InforBar
 - **URL**: http://mitec.cz/infobar.html
@@ -5346,7 +6073,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Here
 - **URL**: https://here.app/
@@ -5354,7 +6082,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## rss2mail
 - **URL**: https://github.com/skx/rss2email
@@ -5362,7 +6091,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Tickr
 - **URL**: https://www.open-tickr.net/
@@ -5370,7 +6100,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Desktop Ticker
 - **URL**: http://www.battware.co.uk/desktopticker.htm
@@ -5378,7 +6109,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FeedsBar
 - **URL**: https://feeds.bar
@@ -5386,7 +6118,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## rss-email
 - **URL**: https://github.com/derekchuank/rss-email
@@ -5394,7 +6127,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Renewed Tab
 - **URL**: https://renewedtab.com/en/
@@ -5402,7 +6136,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Tabhub.app
 - **URL**: https://www.tabhub.app/
@@ -5410,7 +6145,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 烟·红
 - **URL**: https://www.appinn.com/yan-hong-rss-reader-in-new-tab/
@@ -5418,7 +6154,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Easy Signage
 - **URL**: https://easysignage.com/
@@ -5426,7 +6163,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ArchiveBox
 - **URL**: https://archivebox.io/
@@ -5434,7 +6172,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS to ActivityPub Converter
 - **URL**: https://github.com/dariusk/rss-to-activitypub
@@ -5442,7 +6181,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Telegram ToRSSBot
 - **URL**: https://t.me/torssbot
@@ -5450,7 +6190,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[Telegram ToRSSBot]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[Telegram ToRSSBot]
 
 ## RSS Librarian
 - **URL**: https://www.rsslibrarian.ch/librarian.php
@@ -5458,7 +6199,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Newspopper
 - **URL**: https://github.com/rzkmak/newspopper
@@ -5466,7 +6208,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Mirror.bot
 - **URL**: https://mirror.bot/
@@ -5474,7 +6217,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FeedMe
 - **URL**: https://github.com/seazon/FeedMe/blob/master/README.md
@@ -5484,8 +6228,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## MonitoRSS
 - **URL**: https://MonitoRSS.xyz
@@ -5493,7 +6239,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Readybot
 - **URL**: https://readybot.io/
@@ -5501,7 +6248,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## pushMonkey
 - **URL**: https://blog.getpushmonkey.com/automate-push-notifications-rss-feeds/
@@ -5509,7 +6257,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Truepush
 - **URL**: https://www.truepush.com/blog/rss-to-push-notifications/
@@ -5517,7 +6266,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## PushEngage
 - **URL**: https://blog.pushengage.com/fully-automate-your-browser-push-campaigns-with-wordpress-or-rss-feed/
@@ -5525,7 +6275,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## PushAlert
 - **URL**: https://pushalert.co/blog/introducing-automated-rss-push-and-newsletter-push-notifications/
@@ -5533,7 +6284,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## INK RSS
 - **URL**: https://channel.1nk.workers.dev/channel
@@ -5541,7 +6293,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Check酱
 - **URL**: https://gitee.com/easychen/checkchan-dist
@@ -5549,7 +6302,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Distill.io
 - **URL**: https://distill.io/
@@ -5557,7 +6311,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## WebSite-Watcher
 - **URL**: https://www.aignes.com/features.htm
@@ -5565,7 +6320,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 有更新
 - **URL**: https://yougeng.xin/
@@ -5573,7 +6329,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 网页更新提醒
 - **URL**: https://courier.toptopn.com/
@@ -5581,7 +6338,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## I Am Watching You
 - **URL**: https://www.logicjake.xyz/WebMonitor/
@@ -5589,7 +6347,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## PressForward
 - **URL**: https://pressforward.org/
@@ -5597,7 +6356,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## CyberSEO
 - **URL**: https://www.cyberseo.net/
@@ -5605,7 +6365,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Weavr Boards
 - **URL**: https://weavr.ai/blogs/Knowledge-curation-and-sharing-made-easy-through-Weavr-Boards-and-RSS-Feeds
@@ -5613,7 +6374,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## SnipRSS
 - **URL**: https://sniprss.com/
@@ -5621,7 +6383,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Curated
 - **URL**: https://withcurated.com/
@@ -5629,7 +6392,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## EpubKit
 - **URL**: https://epubkit.app/
@@ -5637,7 +6401,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Channel2RSSBot
 - **URL**: https://t.me/Channel2RSSBot
@@ -5645,7 +6410,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## Rui
 - **URL**: https://github.com/rzkmak/rui
@@ -5653,7 +6419,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Mastofeed
 - **URL**: https://mastofeed.org/
@@ -5661,7 +6428,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Karakeep
 - **URL**: https://github.com/karakeep-app/karakeep
@@ -5669,7 +6437,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## therssproject
 - **URL**: https://www.therssproject.com/
@@ -5677,7 +6446,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Bri
 - **URL**: https://bri.so/
@@ -5685,7 +6455,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## POD GINIE
 - **URL**: https://pod-genie.com/
@@ -5695,8 +6466,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## atomstr
 - **URL**: https://git.sr.ht/~psic4t/atomstr
@@ -5704,7 +6477,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## feedsin.space
 - **URL**: https://feedsin.space/
@@ -5712,7 +6486,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Glance
 - **URL**: https://github.com/glanceapp/glance
@@ -5720,7 +6495,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## RSS Gizmos
 - **URL**: https://rssgizmos.com/
@@ -5728,7 +6504,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## feedless
 - **URL**: https://feedless.org/getting-started
@@ -5736,7 +6513,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Django link archive
 - **URL**: https://github.com/rumca-js/Django-link-archive
@@ -5744,7 +6522,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Sponder
 - **URL**: https://sponder.app/
@@ -5752,7 +6531,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Full-Text RSS
 - **URL**: https://www.fivefilters.org/full-text-rss/
@@ -5760,7 +6540,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Full Content RSS
 - **URL**: http://fullcontentrss.com/
@@ -5768,7 +6549,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Full Text RSS
 - **URL**: https://www.freefullrss.com/
@@ -5776,7 +6558,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FeedEx.Net
 - **URL**: https://feedex.net/
@@ -5784,7 +6567,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FeedX
 - **URL**: https://feedx.net
@@ -5792,7 +6576,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ~~FeedOcean: Full Text RSS Feed~~
 - **URL**: https://rss2full.feedocean.com/
@@ -5800,7 +6585,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Epiboard
 - **URL**: https://github.com/Alexays/Epiboard
@@ -5808,7 +6594,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## fulltextrssplz
 - **URL**: https://fulltextrssplz.whtsky.me/
@@ -5816,7 +6603,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Pipfeed news extract API
 - **URL**: https://pipfeed.com/news-extract-api/
@@ -5826,8 +6614,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 简悦
 - **URL**: http://ksria.com/simpread/docs/#/RSSReader
@@ -5835,7 +6625,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Tumblr RSS feed with original-size image
 - **URL**: https://blog.wizos.me/20180412-139.html
@@ -5843,7 +6634,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedburner
 - **URL**: https://feedburner.google.com/
@@ -5851,7 +6643,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## morss.it
 - **URL**: https://morss.it/
@@ -5859,7 +6652,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedburner alternatives
 - **URL**: http://www.feedburner-alternatives.com/
@@ -5867,7 +6661,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FeedPress
 - **URL**: https://feed.press/
@@ -5877,8 +6672,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## MailPoet
 - **URL**: https://www.mailpoet.com/
@@ -5886,7 +6683,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Ultimate Category Excluder
 - **URL**: https://wordpress.org/plugins/ultimate-category-excluder/
@@ -5894,7 +6692,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Featured Images in RSS for Mailchimp & Other Email
 - **URL**: https://wordpress.org/plugins/featured-images-for-rss-feeds/
@@ -5902,7 +6701,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSFilter
 - **URL**: https://rssfilter.netlify.app/
@@ -5910,7 +6710,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## grepfeed
 - **URL**: https://grepfeed.sigwait.tk/
@@ -5918,7 +6719,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## HTML2RSS
 - **URL**: https://html2rss.github.io
@@ -5926,7 +6728,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## RSS Generator
 - **URL**: https://synk.info/
@@ -5934,7 +6737,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## siftrss
 - **URL**: https://siftrss.com/
@@ -5942,7 +6746,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feed Filter Maker
 - **URL**: https://feed.janicek.co/
@@ -5952,8 +6757,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## rss-lambda
 - **URL**: https://rss-lambda.ktachibana.party/
@@ -5961,7 +6768,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Mix
 - **URL**: http://www.rssmix.com/
@@ -5969,7 +6777,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Mixer
 - **URL**: http://rssmixer.com/
@@ -5977,7 +6786,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FEED.INFORMER
 - **URL**: http://feed.informer.com/
@@ -5985,7 +6795,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedspot’s RSSCombiner
 - **URL**: https://www.feedspot.com/rsscombiner/
@@ -5993,7 +6804,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSUnify
 - **URL**: https://feederss.com/index.html
@@ -6001,7 +6813,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## mior
 - **URL**: http://mior.ericfu.me/
@@ -6009,7 +6822,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## a Google Script
 - **URL**: https://www.labnol.org/internet/google-translate-rss-feeds/5110/
@@ -6017,7 +6831,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Blog post workflow
 - **URL**: https://github.com/marketplace/actions/blog-post-workflow
@@ -6025,7 +6840,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## RSSHub with RSS-Parser
 - **URL**: https://telegra.ph/Use-reverse-proxy-to-filter-source-feed-contents-07-01
@@ -6033,7 +6849,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Use Google Sheet translate RSS item content
 - **URL**: https://twitter.com/LorandBodo/status/1414887449189396510
@@ -6041,7 +6858,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSBox
 - **URL**: https://rssbox.app/
@@ -6051,8 +6869,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feed Control
 - **URL**: https://feedcontrol.fivefilters.org/
@@ -6060,7 +6880,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS style with XSL
 - **URL**: https://lepture.com/en/2019/rss-style-with-xsl
@@ -6068,7 +6889,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS.Style
 - **URL**: https://www.rss.style/
@@ -6076,7 +6898,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Planet Pluto
 - **URL**: https://feedreader.github.io/
@@ -6084,7 +6907,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## StreamBurner
 - **URL**: https://git.xmpp-it.net/sch/StreamBurner/src/branch/main/xsl
@@ -6092,7 +6916,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## IndieFeed.link
 - **URL**: https://indiefeed.link/
@@ -6100,7 +6925,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS.Beauty
 - **URL**: https://rss.beauty
@@ -6108,7 +6934,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Backfeed
 - **URL**: http://backfeed.strangecode.com/
@@ -6116,7 +6943,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## rerss
 - **URL**: https://rerss.xyz/
@@ -6124,7 +6952,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ReFeed.to
 - **URL**: https://refeed.to/
@@ -6132,7 +6961,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## tategaki.de
 - **URL**: https://tategaki.de/feed?url=https://feeds.feedburner.com/allaboutrss
@@ -6140,7 +6970,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Newspaper
 - **URL**: https://greasyfork.org/scripts/465932-newspaper-syndication-feed-reader
@@ -6148,7 +6979,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Semantic Search across any RSS feed with Diva
 - **URL**: https://www.diva.so/demo
@@ -6156,7 +6988,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSPath
 - **URL**: http://www.rsspath.com/
@@ -6164,7 +6997,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FeedMoe: a skin for Rainmeter
 - **URL**: https://nek7u.github.io/FeedMoe/
@@ -6172,7 +7006,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[FeedMoe: a skin for Rainmeter]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[FeedMoe: a skin for Rainmeter]
 
 ## Easy to RSS
 - **URL**: https://idealclover.top/projects.html
@@ -6180,7 +7015,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS+
 - **URL**: https://greasyfork.org/scripts/373252-rss-show-site-all-rss
@@ -6188,7 +7024,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feedsearch
 - **URL**: https://feedsearch.dev/
@@ -6198,8 +7035,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Subscription Extension
 - **URL**: https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd
@@ -6207,7 +7046,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS button for Safari
 - **URL**: https://rss-extension.bitpiston.com/
@@ -6215,7 +7055,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSPush
 - **URL**: https://github.com/easychen/rsspush
@@ -6223,7 +7064,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## nostrss
 - **URL**: https://github.com/Asone/nostrss
@@ -6231,7 +7073,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Feed Hawk
 - **URL**: https://www.goldenhillsoftware.com/feed-hawk/
@@ -6239,7 +7082,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## BalloonRSS
 - **URL**: https://embyt.github.io/balloonrss/index.html
@@ -6247,7 +7091,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## Inoreader browser extension
 - **URL**: https://www.inoreader.com/blog/2020/08/inoreaders-browser-extension-got-a-big-update-today.html
@@ -6255,7 +7100,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## rsslay
 - **URL**: https://github.com/piraces/rsslay
@@ -6263,7 +7109,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## RSSBrew
 - **URL**: https://github.com/yinan-c/RSSBrew
@@ -6271,7 +7118,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## RSS Finder
 - **URL**: https://rss-finder-web-app.vercel.app/
@@ -6279,7 +7127,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Another RSS Finder
 - **URL**: https://rss-finder.rook1e.com/
@@ -6287,7 +7136,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Thirdplace Discovery: Feed discovery HTML JSON API
 - **URL**: https://discovery.thirdplace.no/
@@ -6297,8 +7147,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## rssPubBot
 - **URL**: https://t.me/rssPubBot
@@ -6306,7 +7158,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## RSS+Atom Feed Subscribe Button Generator
 - **URL**: https://greasyfork.org/scripts/6261-rss-atom-feed-subscribe-button-generator
@@ -6314,7 +7167,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FeedReader App
 - **URL**: https://feedreader.xyz/
@@ -6322,7 +7176,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS feed ASAP
 - **URL**: https://rssfeedasap.com/
@@ -6330,7 +7185,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## SubToMe
 - **URL**: https://www.subtome.com/
@@ -6338,7 +7194,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 获得播客订阅RSS
 - **URL**: https://www.icloud.com/shortcuts/3a63525217c54f3d81bae8ea55f9f574
@@ -6346,7 +7203,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Add Feed To TTRSS
 - **URL**: https://www.icloud.com/shortcuts/321cb16915324146b3f7931b5b2a08b7
@@ -6354,7 +7212,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS: Subscribe in NNW
 - **URL**: https://www.icloud.com/shortcuts/4e943bc13a7b43a5b60e47ff35807698
@@ -6362,7 +7221,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 播客转换 RSS
 - **URL**: https://sharecuts.cn/shortcut/7620
@@ -6370,7 +7230,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS-to-Inoreader
 - **URL**: https://tmr.js.org/p/dd73704/
@@ -6378,7 +7239,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## EndofYear
 - **URL**: https://github.com/7Wate/EndOfYear
@@ -6386,7 +7248,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Feedspot API
 - **URL**: https://www.feedspot.com/fs/apireadme
@@ -6394,7 +7257,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS API
 - **URL**: https://rssapi.net/
@@ -6402,7 +7266,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Substats
 - **URL**: https://api.spencerwoo.com/substats/
@@ -6410,7 +7275,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## pretty-feed-v3
 - **URL**: https://github.com/genmon/aboutfeeds/blob/main/tools/pretty-feed-v3.xsl
@@ -6418,7 +7284,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## FetchRSS API
 - **URL**: https://fetchrss.com/api
@@ -6426,7 +7293,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Fever API
 - **URL**: https://feedafever.com/api
@@ -6434,7 +7302,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Emit
 - **URL**: https://rssemit.com/
@@ -6442,7 +7311,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## SimplePie
 - **URL**: https://simplepie.org/
@@ -6450,7 +7320,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Gen
 - **URL**: https://doc.rssgen.co/
@@ -6458,7 +7329,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## OPML Checklist
 - **URL**: http://this.how/opmlChecklist/
@@ -6466,7 +7338,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FeedLand
 - **URL**: http://docs.feedland.org/firstThings.opml
@@ -6474,7 +7347,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feed Curator
 - **URL**: https://vincode.io/feed-curator/
@@ -6482,7 +7356,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## by Using Javascript
 - **URL**: https://8430177.github.io/post/jiang-rss-yuan-fan-yi-cheng-zhi-ding-yu-yan-hou-fan-hui/
@@ -6490,7 +7365,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[by Using Javascript]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[by Using Javascript]
 
 ## PosterBot
 - **URL**: https://t.me/pstrbot
@@ -6498,7 +7374,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[PosterBot]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[PosterBot]
 
 ## OPML generator
 - **URL**: https://opml-gen.ovh/
@@ -6506,7 +7383,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## OPML-compatible apps list
 - **URL**: http://opml.org/compatibleApps.opml
@@ -6514,7 +7392,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Awesome RSS
 - **URL**: https://github.com/shgysk8zer0/awesome-rss
@@ -6522,7 +7401,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Little Outliner
 - **URL**: http://littleoutliner.com/
@@ -6530,7 +7410,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 上下闻
 - **URL**: https://news.mindynode.com/en/
@@ -6538,7 +7419,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Unofficial Reuters RSS Feed
 - **URL**: https://www.fivefilters.org/2021/reuters-rss-feeds/
@@ -6546,7 +7428,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## opml-editor
 - **URL**: https://opml.imadij.com/
@@ -6554,7 +7437,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS-GPT
 - **URL**: https://github.com/yinan-c/RSS-GPT
@@ -6562,7 +7446,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## MusicButler
 - **URL**: https://www.musicbutler.io/
@@ -6570,7 +7455,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## HK TV series feed for RSS Player
 - **URL**: http://allenlow.com/blog/2019/09/22/%E6%B8%AF%E5%89%A7rss-player%E5%90%8E%E5%A4%87rss%E9%93%BE%E6%8E%A5%E5%88%86%E4%BA%AB/
@@ -6578,7 +7464,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## KOTOMI RSS
 - **URL**: https://moe4sale.in/
@@ -6586,7 +7473,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Comics RSS
 - **URL**: https://www.comicsrss.com/
@@ -6594,7 +7482,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 蜜柑计划 - Mikan Project
 - **URL**: https://mikanani.me/
@@ -6602,7 +7491,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## SHOWRSS: for Broadcatching
 - **URL**: https://showrss.info/
@@ -6610,7 +7500,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 7 RSS Feeds for the Movies Addict
 - **URL**: https://www.makeuseof.com/tag/4-rss-feeds-for-the-movies-addict/
@@ -6618,7 +7509,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS-Translation
 - **URL**: https://tjsky.github.io/RSS-Translation/
@@ -6626,7 +7518,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(HTTP 404)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(HTTP 404)
 
 ## 远程工作职位的 rss 聚合
 - **URL**: http://dynamic.yuanjingtech.com/rss/remote-work-jobs.xml
@@ -6634,7 +7527,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSPreview
 - **URL**: https://github.com/aureliendavid/rsspreview
@@ -6642,7 +7536,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## RSSBud
 - **URL**: https://github.com/Cay-Zhang/RSSBud
@@ -6650,7 +7545,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Get RSS Feed URL
 - **URL**: https://github.com/shevabam/get-rss-feed-url-extension
@@ -6658,7 +7554,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## favorite link
 - **URL**: https://www.guanguans.cn/favorite-link/
@@ -6666,7 +7563,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Want My RSS
 - **URL**: https://github.com/Reeywhaar/want-my-rss
@@ -6674,7 +7572,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## RSSAid
 - **URL**: https://github.com/lt94/RSSAid/
@@ -6682,7 +7581,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## f43.me
 - **URL**: https://f43.me/
@@ -6690,7 +7590,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ReadRUST
 - **URL**: https://ReadRust.net
@@ -6698,7 +7599,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 软件开发相关RSS源推荐
 - **URL**: https://blog.liyaodong.com/posts/rss-list-for-software-development/
@@ -6706,7 +7608,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Front-End RSS
 - **URL**: https://front-end-rss.now.sh/
@@ -6714,7 +7617,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Techblast
 - **URL**: http://techblast.scripting.com/
@@ -6722,7 +7626,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Artificial Intelligence RSS Feeds on the Web
 - **URL**: https://www.artificial-intelligence.blog/rss-feeds/
@@ -6730,7 +7635,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## rss-tools
 - **URL**: https://adulau.github.io/rss-tools/
@@ -6738,7 +7644,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## Feed picker for Microsoft products
 - **URL**: https://support.microsoft.com/en-us/rss-feed-picker
@@ -6746,7 +7653,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## SyndiKit
 - **URL**: https://github.com/brightdigit/SyndiKit
@@ -6754,7 +7662,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Information Security News
 - **URL**: https://attachments.convertkitcdnn2.com/446246/c3c56058-be1f-4967-9fae-f21b2b563020/security-news.opml
@@ -6762,7 +7671,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## The iOS Dev Directory
 - **URL**: https://iosdevdirectory.com/
@@ -6770,7 +7680,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Indie Hackers Unofficial Feeds
 - **URL**: https://feed.indiehackers.world/
@@ -6778,7 +7689,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Mac iOS Tech Blogs By Women
 - **URL**: https://inessential.com/2015/11/16/blogs_by_women
@@ -6786,7 +7698,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Open Reader API
 - **URL**: https://rss-sync.github.io/Open-Reader-API/
@@ -6794,7 +7707,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## Tech Blogs shared by Emacs China Forum users
 - **URL**: https://emacs-china.org/t/elfeed-tech-feeds-rss/17680
@@ -6802,7 +7716,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Crawler-Buddy
 - **URL**: https://github.com/rumca-js/crawler-buddy
@@ -6810,7 +7725,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## ~~Refined Blog~~
 - **URL**: https://refined.blog/
@@ -6818,7 +7734,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ChainFeeds
 - **URL**: https://www.chainfeeds.xyz/
@@ -6826,7 +7743,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 【925】位优质Mirror作者的Feed地址
 - **URL**: https://twitter.com/zlexdl/status/1502629374889144323
@@ -6834,7 +7752,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## feedi
 - **URL**: https://github.com/davidesantangelo/feedi
@@ -6842,7 +7761,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Bitcoin RSS Feeds
 - **URL**: https://bc1984.com/bitcoin-rss-feeds/
@@ -6850,7 +7770,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS-OPML-to-Markdown
 - **URL**: https://github.com/idealclover/RSS-OPML-to-Markdown
@@ -6858,7 +7779,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## rss-源共享
 - **URL**: https://trello.com/b/lvMGhlNB/%F0%9F%8E%89rss-%E6%BA%90%E5%85%B1%E4%BA%AB
@@ -6866,7 +7788,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 「一天世界」推荐的RSS订阅列表
 - **URL**: https://blog.yitianshijie.net/2019/12/10/rss-feeds-recommendation/
@@ -6874,7 +7797,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Feed Compass
 - **URL**: https://vincode.io/feed-compass/
@@ -6882,7 +7806,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Source | 充实你的 RSS 订阅源
 - **URL**: https://rss-source.com/
@@ -6890,7 +7815,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Reabble.cn 推荐的热门订阅源
 - **URL**: https://reabble.cn/help
@@ -6898,7 +7824,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## theChenWen 整理的 4 份 OPML
 - **URL**: https://twitter.com/theChenWen/status/1296256174837215234
@@ -6906,7 +7833,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS-OPML-to-Markdown enhancement
 - **URL**: https://github.com/AboutRSS/RSS-OPML-to-Markdown/
@@ -6914,7 +7842,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## 「A君私藏的超好用 RSS 订阅源」 by 爱范儿
 - **URL**: https://shimo.im/docs/iwRFK7VNmZIxnuL7/
@@ -6922,7 +7851,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Popular RSS Feeds by RSS.com
 - **URL**: https://rss.com/blog/popular-rss-feeds/
@@ -6930,7 +7860,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## The Signal 500
 - **URL**: https://feeds.bar/signal-500/
@@ -6938,7 +7869,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Awesome ML/AI RSS feed
 - **URL**: https://github.com/vishalshar/awesome_ML_AI_RSS_feed
@@ -6946,7 +7878,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## RSS Maker
 - **URL**: https://rss.mk/
@@ -6954,7 +7887,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Awesome-newsCN-feeds
 - **URL**: https://github.com/RSS-Renaissance/awesome-newsCN-feeds
@@ -6962,7 +7896,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Single Feed Sharing on Twitter
 - **URL**: https://twitter.com/aboutRSS/timelines/1527857429467172864
@@ -6970,7 +7905,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Feed Bundles Sharing on Twitter
 - **URL**: https://twitter.com/aboutRSS/timelines/1527674304921362432
@@ -6978,7 +7914,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Buzzing
 - **URL**: https://www.buzzing.cc/
@@ -6986,7 +7923,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## MoreRSS
 - **URL**: https://morerss.com/index.php
@@ -6994,7 +7932,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 一些法律相关信息的 RSS 订阅地址
 - **URL**: https://blackwinmin.github.io/posts/law_rss/
@@ -7002,7 +7941,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## CyberSecurityRSS
 - **URL**: https://github.com/zer0yu/CyberSecurityRSS
@@ -7010,7 +7950,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## A collection of over 900 RSS feeds for web developers, updated monthly
 - **URL**: https://github.com/simevidas/web-dev-feeds
@@ -7018,7 +7959,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## RSS-IT人
 - **URL**: https://github.com/Gracker/Rss-IT
@@ -7026,7 +7968,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Chinese Security RSS
 - **URL**: https://github.com/zhengjim/Chinese-Security-RSS/blob/master/README.md
@@ -7034,7 +7977,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## BlogWe
 - **URL**: https://blogwe.com/
@@ -7042,7 +7986,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## BlogHub
 - **URL**: https://bloghub.fun/
@@ -7050,7 +7995,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## seekbetter.me 寻我
 - **URL**: https://seekbetter.me/
@@ -7058,7 +8004,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 中文博客圈
 - **URL**: https://blog.huhexian.com/
@@ -7066,7 +8013,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 博客啦
 - **URL**: https://www.boke.la/
@@ -7074,7 +8022,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 十年之约
 - **URL**: https://foreverblog.cn/
@@ -7082,7 +8031,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 中文独立博客全订阅计划
 - **URL**: https://box.othing.xyz/
@@ -7090,7 +8040,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 优秀个人独立博客导航
 - **URL**: http://www.jetli.com.cn/
@@ -7098,7 +8049,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Club
 - **URL**: https://daverupert.com/rss-club/
@@ -7106,7 +8058,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSBlog
 - **URL**: https://rssblog.cn/
@@ -7114,7 +8067,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 「独立 blog 订阅列表」
 - **URL**: https://www.notion.so/blog-by-liqi-io-4bdf37d4fb3443b4b6dbed8317450307
@@ -7122,7 +8076,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Mataroa Collection
 - **URL**: https://collection.mataroa.blog/
@@ -7130,7 +8085,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 品葱精选
 - **URL**: https://github.com/Project-Gutenberg/Pincong
@@ -7138,7 +8094,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## ooh! directory
 - **URL**: https://ooh.directory/
@@ -7146,7 +8103,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 积薪
 - **URL**: https://firewood.news/
@@ -7154,7 +8112,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Blog Surf
 - **URL**: https://blogsurf.io/
@@ -7162,7 +8121,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Blog of the .Day
 - **URL**: https://blogofthe.day/
@@ -7170,7 +8130,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Ghost
 - **URL**: https://ghost.org/
@@ -7178,7 +8139,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## pu-blog
 - **URL**: https://py-blog.zcmimi.top/
@@ -7186,7 +8148,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Awesome RSS Feeds
 - **URL**: https://github.com/spians/awesome-rss-feeds
@@ -7194,7 +8157,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Halo
 - **URL**: https://b3log.org/
@@ -7204,8 +8168,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Gridea
 - **URL**: https://gridea.dev
@@ -7213,7 +8179,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Software Engineering Blogs
 - **URL**: https://github.com/kilimchoi/engineering-blogs/
@@ -7221,7 +8188,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Gatsby
 - **URL**: https://www.gatsbyjs.com/docs/how-to/adding-common-features/adding-an-rss-feed/
@@ -7229,7 +8197,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Montaigne
 - **URL**: https://montaigne.io
@@ -7237,7 +8206,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## PrimitivesFeed
 - **URL**: https://github.com/PrimitivesLane/PrimitivesFeed
@@ -7245,7 +8215,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## lists.sh
 - **URL**: https://lists.sh
@@ -7253,7 +8224,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Listed
 - **URL**: https://listed.to
@@ -7261,7 +8233,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Hashnode
 - **URL**: https://hashnode.com
@@ -7269,7 +8242,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## xLog
 - **URL**: https://xlog.app
@@ -7277,7 +8251,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## microfeed
 - **URL**: https://www.microfeed.org/
@@ -7285,7 +8260,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## microblogpub
 - **URL**: https://microblog.pub/
@@ -7293,7 +8269,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Bear
 - **URL**: https://bearblog.dev/
@@ -7301,7 +8278,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Awesome-techCN-feeds
 - **URL**: https://github.com/RSS-Renaissance/awesome-techCN-feeds
@@ -7309,7 +8287,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## RSS & you-get
 - **URL**: https://left.pink/archives/2712
@@ -7317,7 +8296,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FLEXGET
 - **URL**: https://flexget.com/
@@ -7325,7 +8305,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Catch
 - **URL**: https://giorgiocalderolla.com/catch.html
@@ -7333,7 +8314,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Radarr
 - **URL**: https://radarr.video/
@@ -7341,7 +8323,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## OPML of D介子
 - **URL**: https://github.com/JoJo720/JoJo720/blob/master/assets/rss/D介子.opml
@@ -7349,7 +8332,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Sonarr
 - **URL**: https://sonarr.tv/
@@ -7357,7 +8341,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## qBittorrent
 - **URL**: https://www.qbittorrent.org
@@ -7365,7 +8350,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ~~kalaksi~~
 - **URL**: https://www.kalaksi.com/
@@ -7373,7 +8359,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## flus
 - **URL**: https://flus.fr/
@@ -7381,7 +8368,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS node at V2EX
 - **URL**: https://www.v2ex.com/go/rss
@@ -7389,7 +8377,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## /r/rss : a subreddit
 - **URL**: https://www.reddit.com/r/rss/
@@ -7397,7 +8386,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS-Public Mailing List
 - **URL**: https://groups.google.com/g/rss-public
@@ -7405,7 +8395,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS@lemmy.ml
 - **URL**: https://lemmy.ml/c/rss
@@ -7413,7 +8404,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Awesome RSSHub Routes
 - **URL**: https://github.com/JackyST0/awesome-rsshub-routes
@@ -7421,7 +8413,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Awesome-blogCN-feeds
 - **URL**: https://github.com/RSS-Renaissance/awesome-blogCN-feeds
@@ -7429,7 +8422,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## 中文独立博客列表
 - **URL**: https://github.com/timqian/chinese-independent-blogs
@@ -7437,7 +8431,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Blog friend circle
 - **URL**: https://github.com/prinsss/blog-friend-circle/
@@ -7445,7 +8440,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Calishain, T. (2020) ‘RSS: The Most Useful Dead Technology on the Internet’, Online Searcher, 44(1), p. 30-34.
 - **URL**: http://www.infotoday.com/OnlineSearcher/Articles/Features/RSS-The-Most-Useful-Dead-Technology-on-the-Internet-139013.shtml
@@ -7453,7 +8449,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Laura E. Pence, Harry E. Pence (2008) ‘Accessing and Managing Scientific Literature: Using RSS in the Classroom’, J. Chem. Educ., 85(10), p. 1449
 - **URL**: https://pubs.acs.org/doi/abs/10.1021/ed085p1449
@@ -7461,7 +8458,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Tony Hammond, Timo Hannay, and Ben Lund (2004) ‘The Role of RSS in Science Publishing’, D-Lib Magazine, 10, 12
 - **URL**: http://dlib.org/dlib/december04/hammond/12hammond.html
@@ -7469,7 +8467,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS-同步世界最新资讯 @ 《文献管理与信息分析》
 - **URL**: https://open.163.com/newview/movie/free?pid=HEV46VJJD&mid=EEV46VKF2
@@ -7477,7 +8476,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 群晖
 - **URL**: https://www.synology.com/
@@ -7485,7 +8485,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## U-NAS
 - **URL**: https://www.u-nas.cn/
@@ -7493,7 +8494,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## QNAP 威联通
 - **URL**: https://www.qnap.com/
@@ -7501,7 +8503,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Raspberry Pi
 - **URL**: https://www.raspberrypi.org/
@@ -7509,7 +8512,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## ZenReader
 - **URL**: https://www.tnhh.net/posts/zenreader-4.7-in-rss-eink-reader.html
@@ -7517,7 +8521,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## State of RSS 2020
 - **URL**: https://feeder.co/state-of-rss/2020
@@ -7525,7 +8530,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 百度RSS新闻订阅功能
 - **URL**: https://wanyaxing.com/blog/20191213115747.html
@@ -7533,7 +8539,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Nobelium
 - **URL**: https://github.com/craigary/nobelium
@@ -7541,7 +8548,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## New Twitter API Drops Support for RSS
 - **URL**: https://mashable.com/2012/09/05/twitter-api-rss/
@@ -7549,7 +8557,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Buffer
 - **URL**: https://buffer.com/
@@ -7557,7 +8566,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Reuters
 - **URL**: https://Reuters.com
@@ -7565,7 +8575,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Web of Science
 - **URL**: https://clarivate.com/webofsciencegroup/wp-content/uploads/sites/2/dlm_uploads/2019/11/WoS534-1-external-release-notes.pdf
@@ -7573,7 +8584,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Linkedin
 - **URL**: https://thenextweb.com/insider/2013/12/13/linkedin-will-kill-rss-support-december-19/
@@ -7581,7 +8593,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 时光网
 - **URL**: https://twitter.com/ShinChven/status/1353636917536055298
@@ -7589,7 +8602,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Google Groups
 - **URL**: https://www.theregister.com/2021/08/16/google_groups_rss/
@@ -7597,7 +8611,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Is RSS dead?
 - **URL**: http://isrssdead.com/
@@ -7605,7 +8620,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Raindrop.io
 - **URL**: https://raindropio.canny.io/
@@ -7613,7 +8629,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Mapnews.io
 - **URL**: https://mapnews.io/
@@ -7621,7 +8638,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Rest In Peace Google Reader
 - **URL**: https://web.archive.org/web/20210420205654/https://www.ripgooglereader.com/
@@ -7629,7 +8647,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Podcast Addict
 - **URL**: https://www.facebook.com/podcastAddict/
@@ -7637,7 +8656,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Google Podcast
 - **URL**: https://podcasts.google.com/
@@ -7645,7 +8665,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## The Podcast App
 - **URL**: https://podcast.app/
@@ -7653,7 +8674,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Pocket Casts
 - **URL**: https://www.pocketcasts.com/
@@ -7661,7 +8683,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## AntennaPod
 - **URL**: https://antennapod.org/
@@ -7669,7 +8692,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## MOON.FM
 - **URL**: https://www.moon.fm/
@@ -7677,7 +8701,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 小宇宙
 - **URL**: https://xiaoyuzhoufm.com/
@@ -7685,7 +8710,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## CastBox
 - **URL**: https://castbox.fm/
@@ -7693,7 +8719,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Apple Podcast & iTunes
 - **URL**: https://support.apple.com/zh-cn/HT201859
@@ -7701,7 +8728,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Himalaya
 - **URL**: https://www.himalaya.com
@@ -7709,7 +8737,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Overcast
 - **URL**: https://overcast.fm/
@@ -7717,7 +8746,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Castro
 - **URL**: https://castro.fm
@@ -7725,7 +8755,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Baucast
 - **URL**: https://www.baucast.com/
@@ -7733,7 +8764,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Player FM
 - **URL**: https://player.fm/
@@ -7741,7 +8773,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## bullhorn
 - **URL**: https://www.bullhorn.fm/
@@ -7749,7 +8782,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Peach Blog
 - **URL**: https://github.com/LeetaoGoooo/peach-blog
@@ -7757,7 +8791,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Cosmicast
 - **URL**: https://twitter.com/cosmicastapp
@@ -7765,7 +8800,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Downcast
 - **URL**: http://downcast.fm/
@@ -7773,7 +8809,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## AniVu
 - **URL**: https://github.com/SkyD666/AniVu
@@ -7781,7 +8818,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## RSSRadio
 - **URL**: http://rssrad.io/
@@ -7789,7 +8827,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## waifu!d for aria2
 - **URL**: https://github.com/pcmid/waifud
@@ -7797,7 +8836,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## GNOME Podcasts
 - **URL**: https://gitlab.gnome.org/World/podcasts
@@ -7805,7 +8845,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## FocusPodcast
 - **URL**: https://play.google.com/store/apps/details?id=allen.town.focus.podcast
@@ -7813,7 +8854,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 领讲台
 - **URL**: https://www.lingjiangtai.com/
@@ -7821,7 +8863,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Airshow
 - **URL**: https://feedbin.com/airshow
@@ -7829,7 +8872,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Pods
 - **URL**: https://x.com/Enter_Apps/status/1768669206826926292
@@ -7837,7 +8881,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## The Podcast App
 - **URL**: https://thepodcastapp.dev/
@@ -7845,7 +8890,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## STITCHER
 - **URL**: https://www.stitcher.com/
@@ -7853,7 +8899,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## PodCast不完全收藏
 - **URL**: https://www.douban.com/note/702906996/
@@ -7861,7 +8908,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 播客 RSS Feed
 - **URL**: https://getpodcast.xyz/
@@ -7869,7 +8917,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 中文独立播客
 - **URL**: https://typlog.com/podlist/
@@ -7877,7 +8926,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Han-language Podcast on Twitter
 - **URL**: https://twitter.com/aboutRSS/lists/list1
@@ -7885,7 +8935,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 播客 × 万花筒
 - **URL**: https://pod.wht.one/
@@ -7893,7 +8944,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## KKBOX podcast
 - **URL**: https://podcast.kkbox.com/
@@ -7903,8 +8955,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Apple Podcast 人气最高的100个中文播客
 - **URL**: https://zhuanlan.zhihu.com/p/166002110
@@ -7912,7 +8966,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 分享你人为值得订阅的内容 by Notion中文社区
 - **URL**: https://www.notion.so/cnotion/Notion-Vol-13-89e51bdb621a4e009e7ec60d1cc58c2f
@@ -7920,7 +8975,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Podcast OPML collections
 - **URL**: http://b19.se/data/
@@ -7928,7 +8984,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Chris Abraham's Podcast Collection
 - **URL**: https://chrisabraham.com/opml/view
@@ -7936,7 +8993,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 中文播客榜
 - **URL**: https://xyzrank.com/
@@ -7944,7 +9002,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 中文播客数据分析 · 公众版
 - **URL**: https://wav.pub/analysis/
@@ -7952,7 +9011,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Podbase
 - **URL**: https://podba.se/validate/
@@ -7960,7 +9020,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Cast Feed Validator
 - **URL**: https://castfeedvalidator.com/
@@ -7968,7 +9029,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## The Podcast App RSS Validator
 - **URL**: https://thepodcastapp.dev/tools/rss-validator
@@ -7976,7 +9038,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Google Podcasts Manager
 - **URL**: https://podcastsmanager.google.com/about?hl=en
@@ -7984,7 +9047,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## KKBOX for Podcasters
 - **URL**: https://podcast.kkbox.com/podcasters
@@ -7992,7 +9056,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 12 audio platforms summarized in a Google Docs
 - **URL**: https://docs.google.com/document/d/1OurVCVVrVRVJMni5wmf2Ut2gE7_ti1MusxaaNCkiXDs/edit
@@ -8000,7 +9065,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Listen Notes
 - **URL**: https://www.listennotes.com/
@@ -8010,8 +9076,10 @@ _更新于: 2026-10-01_
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## huffduffer
 - **URL**: https://huffduffer.com/
@@ -8019,7 +9087,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## podcast4us
 - **URL**: https://podcast4us.herokuapp.com/
@@ -8027,7 +9096,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RECAST
 - **URL**: https://recastthis.com/
@@ -8035,7 +9105,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## PodcastAP
 - **URL**: https://podcastap.com/
@@ -8043,7 +9114,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSYes
 - **URL**: https://rssyes.com/youtube-to-podcast
@@ -8051,7 +9123,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## PodNoms
 - **URL**: https://www.podnoms.com/
@@ -8059,7 +9132,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Listenbox
 - **URL**: https://listenbox.app
@@ -8067,7 +9141,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Maverick
 - **URL**: https://alandecode.github.io/Maverick/
@@ -8075,7 +9150,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## RSS Kubernetes
 - **URL**: https://t.me/rss_kubernetes
@@ -8083,7 +9159,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[RSS Kubernetes]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[RSS Kubernetes]
 
 ## TwitchPOD
 - **URL**: https://twitchpod.tv/
@@ -8091,7 +9168,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## HEADLINER
 - **URL**: https://headliner.app/
@@ -8099,7 +9177,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Collect-Info-Research
 - **URL**: https://github.com/p1g3/Collect-Info-Research
@@ -8107,7 +9186,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Audiblogs
 - **URL**: https://audiblogs.com/
@@ -8115,7 +9195,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 中文播客分析
 - **URL**: http://beta.moon.fm/podcasts/data
@@ -8123,7 +9204,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## PodFest China 2020 中文播客听众与消费调研
 - **URL**: https://podfestchina.com/survey/2020
@@ -8131,7 +9213,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Podcast-Standard
 - **URL**: https://podcast-standard.org/
@@ -8139,7 +9222,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Pitch
 - **URL**: https://www.getpitch.io/
@@ -8147,7 +9231,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Podcast Hosting
 - **URL**: https://rss.com
@@ -8155,7 +9240,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## JustCast
 - **URL**: https://www.justcast.com/
@@ -8163,7 +9249,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## wavpub
 - **URL**: https://wavpub.com/
@@ -8171,7 +9258,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## PodcastGenerator
 - **URL**: https://podcastgenerator.net/
@@ -8179,7 +9267,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 轻芒小程序+ 播客小程序
 - **URL**: http://qingmang.me/
@@ -8187,7 +9276,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Transistor
 - **URL**: https://transistor.fm/
@@ -8195,7 +9285,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Libsyn
 - **URL**: https://libsyn.com/
@@ -8203,7 +9294,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Anchor
 - **URL**: https://anckor.fm/
@@ -8211,7 +9303,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## PodBean
 - **URL**: https://www.podbean.com/
@@ -8219,7 +9312,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Simplecast
 - **URL**: https://simplecast.com/
@@ -8227,7 +9321,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Fireside
 - **URL**: https://fireside.fm/
@@ -8235,7 +9330,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Podlink
 - **URL**: https://pod.link/
@@ -8243,7 +9339,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Podcastly
 - **URL**: https://pdcstly.com/
@@ -8251,7 +9348,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSSRadio
 - **URL**: http://rssrad.io/#/podcast/search
@@ -8259,7 +9357,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS2YTM
 - **URL**: https://rss2ytm.net
@@ -8267,7 +9366,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 4AM
 - **URL**: https://at4am.io/t/topic/6954
@@ -8275,7 +9375,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## RSS Feeds from Telegram Channel: DailyRSS
 - **URL**: https://t.me/allaboutrss/4893
@@ -8283,7 +9384,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[RSS Feeds from Telegram Channel: DailyRSS]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[RSS Feeds from Telegram Channel: DailyRSS]
 
 ## 4AM
 - **URL**: https://at4am.io/
@@ -8291,7 +9393,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## /r/podcasts : a subreddit
 - **URL**: https://www.reddit.com/r/podcasts/
@@ -8299,7 +9402,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Podcast node at V2EX
 - **URL**: https://www.v2ex.com/go/podcast
@@ -8307,7 +9411,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## 声波
 - **URL**: https://www.singpodcast.com/
@@ -8315,7 +9420,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Chinese-Podcasts
 - **URL**: https://github.com/alaskasquirrel/Chinese-Podcasts
@@ -8323,7 +9429,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## ~~OpenSourceWeekly~~
 - **URL**: https://fatalentropy.com/open-source-weekly/
@@ -8331,7 +9438,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Substats API
 - **URL**: https://substats.spencerwoo.com/
@@ -8339,7 +9447,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Flourish
 - **URL**: https://flourish.studio
@@ -8347,7 +9456,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## YouCast
 - **URL**: https://github.com/i3arnon/YouCast
@@ -8355,7 +9465,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## @XMRer
 - **URL**: https://twitter.com/XMRer/status/1517387830020145152
@@ -8363,7 +9474,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Donators from Gitcoin
 - **URL**: https://gitcoin.co/grants/5980/about-rss?tab=contributions
@@ -8371,7 +9483,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## <img src="https://github.com/RSSNext/follow/assets/41265413/c6c02ad5-cddc-46f5-8420-a47afe1c82fe" alt="Follow" width="50">
 - **URL**: https://x.com/follow_app_
@@ -8379,7 +9492,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## @spianslabs
 - **URL**: https://twitter.com/spianslabs
@@ -8387,7 +9501,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(InvalidSchema)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(InvalidSchema)
 
 ## Podcast RSS Generator
 - **URL**: https://github.com/vpetersson/podcast-rss-generator/
@@ -8395,7 +9510,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## Podsync
 - **URL**: https://github.com/mxpv/podsync
@@ -8403,7 +9519,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## BroadcastChannel
 - **URL**: https://github.com/ccbikai/BroadcastChannel
@@ -8411,7 +9528,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | fail | 
   - 2026-09-15 | fail | 
-  - 2026-10-01 | fail | HTTP异常(GitHub API 429)
+  - 2026-10-01 | fail | 
+  - 2026-10-15 | fail | HTTP异常(GitHub API 429)
 
 ## 前端开发/互联网数码/各种软件
 - **URL**: https://t.me/s/aboutrss/767
@@ -8419,7 +9537,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[前端开发/互联网数码/各种软件]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[前端开发/互联网数码/各种软件]
 
 ## RSS 交流群
 - **URL**: https://t.me/joinchat/Ag98F0evTbZwY8HB7oH4fA
@@ -8427,7 +9546,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[RSS 交流群]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[RSS 交流群]
 
 ## 1
 - **URL**: https://t.me/s/aboutrss/1071
@@ -8435,7 +9555,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[1]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[1]
 
 ## 中文博客RSS订阅
 - **URL**: https://t.me/s/chinarss
@@ -8443,7 +9564,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## Inoreader 交流群
 - **URL**: https://t.me/joinchat/EqQ3nEOEbMHqQHLd6ai-SQ
@@ -8451,7 +9573,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[Inoreader 交流群]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[Inoreader 交流群]
 
 ## Podstation
 - **URL**: https://podstation.github.io/
@@ -8459,7 +9582,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## Find Blog 发现博客
 - **URL**: https://t.me/s/findblog
@@ -8467,7 +9591,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[Find Blog 发现博客]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[Find Blog 发现博客]
 
 ## Yourcast Bot
 - **URL**: https://t.me/yourcastbot
@@ -8475,7 +9600,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[Yourcast Bot]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[Yourcast Bot]
 
 ## Podcastly
 - **URL**: https://t.me/podcastly_bot
@@ -8483,7 +9609,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | ok | 
   - 2026-09-15 | ok | 
-  - 2026-10-01 | ok | 正常
+  - 2026-10-01 | ok | 
+  - 2026-10-15 | ok | 正常
 
 ## 1
 - **URL**: https://t.me/s/aboutrss/1048
@@ -8491,7 +9618,8 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[1]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[1]
 
 ## 28
 - **URL**: https://t.me/s/aboutrss/1111
@@ -8499,4 +9627,5 @@ _更新于: 2026-10-01_
 - **检查周期**:
   - 2026-09-01 | unknown | 
   - 2026-09-15 | unknown | 
-  - 2026-10-01 | unknown | 标题不含关键词[28]
+  - 2026-10-01 | unknown | 
+  - 2026-10-15 | unknown | 标题不含关键词[28]
